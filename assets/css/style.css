@@ -95,3 +95,34 @@ h1, h2 {
     color: #595959;
 }
 
+/* Events Section */
+#events {
+    background-color: black;
+    height: 350px;
+    width: 100%;
+    margin: 10PX;
+    display: flex;
+   
+}
+#events-image {
+    background: url("../images/gaming-group.jpg") no-repeat center center;
+    width: 45%;
+    height: 340px;
+    overflow: hidden;
+    padding: 5px;
+
+}
+#evnts-info {
+    background-color: darkred;
+    width: 50%;
+    height: 280px;
+    justify-content: end;
+    text-align: center;
+    margin: 30px;
+    font-size: 120%;
+    border-radius: 5%; 
+
+}
+#evnts-info h2 {
+    padding:20px;
+}
