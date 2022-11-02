@@ -195,4 +195,10 @@ h1, h2 {
     padding:15px;
     display: inline;
     font-size: 200%;
+    
+    
+}
+.social-networks a {
+    text-decoration: none;
+    color: #595959;
 }
