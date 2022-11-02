@@ -67,14 +67,17 @@ h1, h2 {
 #overlay {
     background-color: rgba(0, 0, 0, 0.8);
     width: 400px;
-    height: 300px;
+    min-height: 300px;
     font-size: 24px;
     text-align: center;
     padding-top: 10px;
     border-radius: 5%;  
+    
+    
 }
 #overlay p {
     margin: 10px;
+    display: contents;
 }
 .book-button-outer {
     margin: 20px;
@@ -88,10 +91,8 @@ h1, h2 {
     font-weight: bold;
     text-transform: uppercase;
     color: darkred;
-    margin: 20px;
     padding: 10px;
     border-radius: 5%;
-    
 }
 .book-button:hover {
     background-color: darkred;
@@ -105,21 +106,22 @@ h1, h2 {
     width: 100%;
     border: 2px solid #595959;
     display: flex;
+    
    
 }
 #events-image {
     background: url("../images/gaming-group.jpg") no-repeat center center;
     width: 45%;
     height: 340px;
-    overflow: hidden;
+    /* overflow: hidden; */
     padding: 5px;
 
 }
 #evnts-info {
     background-color: darkred;
     width: 50%;
-    height: 280px;
-    justify-content: end;
+    min-width: none;
+    /* justify-content: end; */
     text-align: center;
     margin: 30px;
     font-size: 120%;
@@ -141,9 +143,10 @@ h1, h2 {
     text-transform: uppercase;
     color: darkred;
     margin: 20px;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5%;
     border: 2px solid black;
+    
 
 }
 .event-button:hover {
@@ -225,4 +228,23 @@ h1, h2 {
     padding: 5px;
     margin-top: 10px;
 }
+/* Media queries
 
+/* For larger to medium screen sizes from 1200px and down */
+
+/* @media screen and (max-width:1200px) {
+    #menu {
+        flex-direction: column;
+        justify-content: flex-start;
+        float: left;
+    }
+    #events {
+        display: flex;
+        flex-direction: column;
+    }
+    #contact {
+        display: flex;
+        flex-direction: column;
+        float: left;
+    }
+} */ 
