@@ -126,3 +126,26 @@ h1, h2 {
 #evnts-info h2 {
     padding:20px;
 }
+.event-button-outer {
+    margin: 20px;
+    padding: 5px;
+}
+.event-button {
+    background-color: #595959;
+    text-decoration: none;
+    font-size: 140%;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: darkred;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5%;
+    border: 2px solid black;
+
+}
+.event-button:hover {
+    background-color: black;
+    color: darkred;
+    border: 2px solid #595959;
+
+}
