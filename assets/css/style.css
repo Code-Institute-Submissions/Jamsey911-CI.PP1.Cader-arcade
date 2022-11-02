@@ -152,10 +152,11 @@ h1, h2 {
     border: 2px solid #595959;
 
 }
-/* #contact {
-    margin: 20px;
-    word-spacing: 3px;
-} */
+
+/* Contact section starts here */
+#contact {
+    display: flex;
+}
 .time-table {
     border-collapse: collapse;
     margin: 25px;
@@ -177,4 +178,21 @@ h1, h2 {
     padding:12px;
     text-align: left;
     
+}
+.media {
+    text-align: center;
+    padding: 30px;
+    max-width: 400px;
+}
+.media p {
+    padding: 15px;
+}
+.social-networks {
+    text-align: center;
+    padding: 15px;
+}
+.social-networks li {
+    padding:15px;
+    display: inline;
+    font-size: 200%;
 }
