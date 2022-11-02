@@ -50,13 +50,16 @@ h1, h2 {
 
 /* Hero Image */
 #hero-image {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background:url("../images/hero-image.jpg") no-repeat center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 #hero-outer {
-    height: 500px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
 }
@@ -66,9 +69,6 @@ h1, h2 {
     width: 400px;
     height: 300px;
     font-size: 24px;
-    position: absolute;
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
     padding-top: 10px;
     border-radius: 5%;  
@@ -154,8 +154,16 @@ h1, h2 {
 }
 
 /* Contact section starts here */
+
+/* Opening Hours */
 #contact {
     display: flex;
+    justify-content: center;
+    
+}
+.footer-logo {
+    text-align: center;
+    padding-top: 5px;
 }
 .time-table {
     border-collapse: collapse;
@@ -163,6 +171,7 @@ h1, h2 {
     min-width: 350px;
     background-color: black;
     border: 2px solid #999999;
+    float: left;
     
 }
 .time-table tr th {
@@ -179,6 +188,9 @@ h1, h2 {
     text-align: left;
     
 }
+
+/* Social Media */
+
 .media {
     text-align: center;
     padding: 30px;
@@ -194,11 +206,23 @@ h1, h2 {
 .social-networks li {
     padding:15px;
     display: inline;
-    font-size: 200%;
-    
-    
+    font-size: 200%;    
 }
 .social-networks a {
     text-decoration: none;
     color: #595959;
 }
+
+/* Email, Phone, Address */
+
+.contact-info {
+    text-align: left;
+    padding: 5px;
+    word-spacing: 4px;
+    float:right;
+}
+.contact-info h2,li {
+    padding: 5px;
+    margin-top: 10px;
+}
+
