@@ -8,8 +8,8 @@
 body {
     font-family: Libre Baskerville, sans-serif;
     font-weight: 300;
-    color:#999999;
-    background-color: darkred;
+    color:darkred;
+    background-color: #999999;
 }
 
 /* Heading and Logo */
@@ -17,7 +17,7 @@ body {
 h1, h2 {
     font-family: Libre Franklin, sans-serif;
     letter-spacing: 4px;
-    color: #595959;
+    color: darkred;
     text-transform: uppercase;
 }
 #logo {
@@ -42,10 +42,10 @@ h1, h2 {
     color: inherit;
 }
 #menu a:hover {
-    color: #595959;
+    color: black;
 }
 .active {
-    border-bottom: 1px solid #999999;
+    border-bottom: 1px solid darkred;
 }
 
 /* Hero Image */
@@ -101,10 +101,8 @@ h1, h2 {
 
 /* Events Section */
 #events {
-    background-color: #595959;
     height: 350px;
     width: 100%;
-    border: 2px solid #595959;
     display: flex;
     
    
@@ -118,7 +116,7 @@ h1, h2 {
 
 }
 #evnts-info {
-    background-color: darkred;
+    /* background-color: darkred; */
     width: 50%;
     min-width: none;
     /* justify-content: end; */
