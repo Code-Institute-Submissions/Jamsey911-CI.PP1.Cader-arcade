@@ -8,8 +8,8 @@
 body {
     font-family: Libre Baskerville, sans-serif;
     font-weight: 300;
-    color:rgb(63, 13, 13);
-    background-color: #999999;
+    color:#330000;
+    background-color: #e0dada;
 }
 
 /* Heading and Logo */
@@ -17,7 +17,7 @@ body {
 h1, h2 {
     font-family: Libre Franklin, sans-serif;
     letter-spacing: 4px;
-    color: #362f2f;
+    color: #000033;
     text-transform: uppercase;
 }
 #logo {
@@ -42,10 +42,10 @@ h1, h2 {
     color: inherit;
 }
 #menu a:hover {
-    color: black;
+    border-bottom: 1px solid #000033;
 }
 .active {
-    border-bottom: 1px solid #3f0d0d;
+    border-bottom: 1px solid #000033;
 }
 
 /* Hero Image */
@@ -65,7 +65,7 @@ h1, h2 {
 }
 /* Text inside the hero image */
 #overlay {
-    background-color: rgba(153, 153, 153, 0.9);
+    background-color: rgba(224, 218, 218, 0.9);
     width: 400px;
     min-height: 300px;
     font-size: 24px;
@@ -85,18 +85,19 @@ h1, h2 {
 
 }
 .book-button {
-    background-color: #595959;
+    background-color: #000033;
     text-decoration: none;
     font-size: 110%;
     font-weight: bold;
     text-transform: uppercase;
-    color: darkred;
+    color: #e0dada;
     padding: 10px;
     border-radius: 5%;
 }
 .book-button:hover {
-    background-color: darkred;
-    color: #595959;
+    background-color: #e0dada;
+    color: #000033;
+    border: 2px solid #000033;
 }
 
 /* Events Section */
@@ -134,23 +135,21 @@ h1, h2 {
     padding: 5px;
 }
 .event-button {
-    background-color: #595959;
+    background-color: #000033;
     text-decoration: none;
     font-size: 140%;
     font-weight: bold;
     text-transform: uppercase;
-    color: darkred;
+    color: #e0dada;
     margin: 20px;
     padding: 5px;
     border-radius: 5%;
-    border: 2px solid black;
-    
 
 }
 .event-button:hover {
-    background-color: black;
-    color: darkred;
-    border: 2px solid #595959;
+    background-color: #e0dada;
+    color: #000033;
+    border: 2px solid #000033;
 
 }
 
@@ -170,7 +169,7 @@ h1, h2 {
     border-collapse: collapse;
     margin: 25px;
     min-width: 350px;
-    background-color: black;
+    background-color: #e0dada;
     border: 2px solid #999999;
     float: left;
     
@@ -211,7 +210,7 @@ h1, h2 {
 }
 .social-networks a {
     text-decoration: none;
-    color: #595959;
+    color: #330000;
 }
 
 /* Email, Phone, Address */
@@ -220,7 +219,6 @@ h1, h2 {
     text-align: left;
     padding: 5px;
     word-spacing: 4px;
-    float:right;
 }
 .contact-info h2,li {
     padding: 5px;
