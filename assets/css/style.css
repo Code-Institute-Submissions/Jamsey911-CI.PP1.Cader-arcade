@@ -8,7 +8,7 @@
 body {
     font-family: Libre Baskerville, sans-serif;
     font-weight: 300;
-    color:darkred;
+    color:rgb(63, 13, 13);
     background-color: #999999;
 }
 
@@ -17,7 +17,7 @@ body {
 h1, h2 {
     font-family: Libre Franklin, sans-serif;
     letter-spacing: 4px;
-    color: darkred;
+    color: #362f2f;
     text-transform: uppercase;
 }
 #logo {
@@ -45,7 +45,7 @@ h1, h2 {
     color: black;
 }
 .active {
-    border-bottom: 1px solid darkred;
+    border-bottom: 1px solid #3f0d0d;
 }
 
 /* Hero Image */
@@ -65,7 +65,7 @@ h1, h2 {
 }
 /* Text inside the hero image */
 #overlay {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(153, 153, 153, 0.9);
     width: 400px;
     min-height: 300px;
     font-size: 24px;
@@ -206,7 +206,7 @@ h1, h2 {
 }
 .social-networks li {
     padding:15px;
-    display: inline;
+    display:inline;
     font-size: 200%;    
 }
 .social-networks a {
