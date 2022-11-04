@@ -50,7 +50,7 @@ h1, h2 {
 
 /* Hero Image */
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background:url("../images/hero-image.jpg") no-repeat center center;
     display: flex;
@@ -59,7 +59,7 @@ h1, h2 {
     
 }
 #hero-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
@@ -77,6 +77,7 @@ h1, h2 {
 }
 #overlay p {
     margin: 10px;
+    padding: 5px;
     display: contents;
 }
 .book-button-outer {
@@ -106,33 +107,30 @@ h1, h2 {
     width: 100%;
     display: flex;
     
-   
 }
 #events-image {
-    background: url("../images/gaming-group.jpg") no-repeat center center;
-    width: 45%;
-    height: 340px;
-    /* overflow: hidden; */
-    padding: 5px;
-
-}
-#evnts-info {
-    /* background-color: darkred; */
     width: 50%;
-    min-width: none;
-    /* justify-content: end; */
-    text-align: center;
-    margin: 30px;
-    font-size: 120%;
-    border-radius: 5%; 
-
+    overflow: hidden;
+     
+/* SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS */
 }
-#evnts-info h2 {
-    padding:20px;
+#events-info {
+    width: 50%;
+    text-align: center;
+    margin: 15px;
+    font-size: 120%;
+    border: 2px solid #000033;
+    border-radius: 25%;
+}
+#events-info h2 {
+    padding:30px 0 0 30px;
+}
+#events p {
+    padding: 10px 20px 0px 20px;
 }
 .event-button-outer {
     margin: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .event-button {
     background-color: #000033;
@@ -152,25 +150,40 @@ h1, h2 {
     border: 2px solid #000033;
 
 }
+/* Footer/Social Media */
+
+.media {
+    text-align: center;
+    padding: 10px; 
+    border: 2px solid #000033;
+}
+.media p {
+    padding: 5px;
+}
+.social-networks {
+    text-align: center;
+    padding: 10px;
+}
+.social-networks li {
+    padding:20px;
+    display:inline;
+    font-size: 200%;    
+}
+.social-networks a {
+    text-decoration: none;
+    color: #330000;
+}
 
 /* Contact section starts here */
 
 /* Opening Hours */
-#contact {
-    display: flex;
-    justify-content: center;
-    
-}
-.footer-logo {
-    text-align: center;
-    padding-top: 5px;
-}
+
 .time-table {
     border-collapse: collapse;
     margin: 25px;
     min-width: 350px;
     background-color: #e0dada;
-    border: 2px solid #999999;
+    border: 2px solid #000033;
     float: left;
     
 }
@@ -189,29 +202,6 @@ h1, h2 {
     
 }
 
-/* Social Media */
-
-.media {
-    text-align: center;
-    padding: 30px;
-    max-width: 400px;
-}
-.media p {
-    padding: 15px;
-}
-.social-networks {
-    text-align: center;
-    padding: 15px;
-}
-.social-networks li {
-    padding:15px;
-    display:inline;
-    font-size: 200%;    
-}
-.social-networks a {
-    text-decoration: none;
-    color: #330000;
-}
 
 /* Email, Phone, Address */
 
@@ -224,23 +214,60 @@ h1, h2 {
     padding: 5px;
     margin-top: 10px;
 }
-/* Media queries
+/* Media queries */
 
 /* For larger to medium screen sizes from 1200px and down */
 
-/* @media screen and (max-width:1200px) {
+@media screen and (max-width:1200px) {
+    
+    #logo {
+        width: 100%;
+    }
     #menu {
-        flex-direction: column;
         justify-content: flex-start;
         float: left;
     }
     #events {
+        display: contents;
         display: flex;
         flex-direction: column;
+        height: fit-content;  
+        justify-items: center;
+        overflow: hidden;
+        
     }
+    #events-image {
+        width: auto; 
+        height: 470px;
+        padding-top: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;   
+    }
+    #events-info {
+      width: auto;
+      margin: 0 50px 20px 50px;
+        
+    }    
+
     #contact {
         display: flex;
         flex-direction: column;
         float: left;
     }
-} */ 
+}
+/* For medium screen sizes from 769px and down */
+
+@media screen and (max-width:769px) {
+    #menu {
+        flex-direction: column;
+        justify-content: flex-start;
+        float: left;
+
+    }
+}
+/* For smaller screen sizes from 481px and down */
+
+@media screen and (max-width:481px) {
+
+}
