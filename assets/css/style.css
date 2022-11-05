@@ -103,9 +103,12 @@ h1, h2 {
 
 /* Events Section */
 #events {
-    height: 350px;
+    height: 470px;
     width: 100%;
     display: flex;
+    justify-content: center;
+    margin: 30px 30px 30px 0;
+    align-items: center;
     
 }
 #events-image {
@@ -115,15 +118,15 @@ h1, h2 {
 /* SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS */
 }
 #events-info {
-    width: 50%;
+    width: 500px;
     text-align: center;
     margin: 15px;
     font-size: 120%;
-    border: 2px solid #000033;
-    border-radius: 25%;
+    
+    
 }
 #events-info h2 {
-    padding:30px 0 0 30px;
+    padding:30px 0 0 0px;
 }
 #events p {
     padding: 10px 20px 0px 20px;
@@ -140,7 +143,7 @@ h1, h2 {
     text-transform: uppercase;
     color: #e0dada;
     margin: 20px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 5%;
 
 }
@@ -269,5 +272,13 @@ h1, h2 {
 /* For smaller screen sizes from 481px and down */
 
 @media screen and (max-width:481px) {
+
+    #invents-image {
+        display: block;
+        
+    }
+    #overlay {
+        width:  300px;
+    }
 
 }
