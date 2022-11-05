@@ -105,21 +105,30 @@ h1, h2 {
     height: 470px;
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     margin: 30px 30px 30px 0;
     align-items: center;
     
 }
-#events-image {
-    width: 50%;
+#kids-gaming {
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+    border: 20px solid #330000;
     overflow: hidden;
-    
+}
+#events-image {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20%;
+    border: 20px solid #330000;
 }
 #events-info {
-    width: 500px;
+    width: 300px;
     text-align: center;
-    margin: 15px;
-    font-size: 120%;
+    
+    font-size: 100%;
     
 }
 #events-info h2 {
@@ -260,19 +269,17 @@ h1, h2 {
     #events {
         display: contents;
         display: flex;
-        flex-direction: column;
-        height: fit-content;  
+        flex-direction: row;
+        height: fit-content;
         justify-items: center;
         overflow: hidden;
-        
+        flex-wrap: wrap;
     }
     #events-image {
-        width: auto; 
-        height: 470px;
-        padding-top: 50px;
+        width: 300px; 
+        height: 300px;
         display: block;
-        margin-left: auto;
-        margin-right: auto;   
+         
     }
     #events-info {
       width: auto;
