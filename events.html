@@ -33,21 +33,42 @@
             </ul>
         </nav>  
     </header>
-    <section id="hero-outer">
-        <div id="hero-image">
-            <div id="overlay">
-             <h2>Celebrate games with us</h2>
-                <p>We have over 150 types of games for you to enjoy for all ages.
-                Book a section with us today and celebrate in style
+    <section id="event-hero-outer">
+        <div id="event-1">
+            <h2><i class="fa-regular fa-futbol"></i>FIFA tournament</h2>
+            <p>The FIFA22WWPS is a video game competition conducted using EA Sports 
+                FIFA 22 (“FIFA 22”) for the PlayStation®5 console (“PS5”) 
                 </p>
-                <div class="book-button-outer">
-                    <a href="bookings.html" class="book-button">Book Now</a>
-                </div>
-                <!-- <label for="booking"></label>
-                <input type="button" value="booking"> -->
-            </div>
-
         </div>
+        <div id="event-2" >
+            <h2><i class="fa-solid fa-person-military-rifle"></i>COD tournament</h2>
+            <p>Start your path to pro by creating a GameBattles account and signing your 
+                team up for
+                 an online Call of Duty Challengers competition. You must be at least 18
+            </p>
+        </div>
+        <section class="form-event">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-event">
+                <h2>Sign Up Here!</h2>
+                <label for="fname">First Name</label>
+                <input id="fname" class="text-input" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" class="text-input" name="last_name" type="text" required>
+                
+                <label for="email">Email Address</label>
+                <input type="email" class="text-input" id="email" name="email_address" required>
+                
+                <label for="road">Fifa</label>
+                <input type="radio" id="road" name="running_preference" value="road" required>
+                <label for="trail">PUGB</label>
+                <input type="radio" id="trail" name="running_preference" value="trail" required>
+                <label for="both">Both</label>
+                <input type="radio" id="both" name="running_preference" value="both" required>
+                
+                <input class="join-button" type="submit" value="Game On!" >
+            </form>
+        </section>
     </section>
     <footer>
         <div class="media">
@@ -76,3 +97,6 @@
         </ul>
     </div>
     </footer>
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/9f816534b6.js" crossorigin="anonymous"></script>
+</body>
