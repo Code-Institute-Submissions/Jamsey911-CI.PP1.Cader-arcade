@@ -340,6 +340,13 @@ h1, h2 {
 
 
 /* Email, Phone, Address */
+.contact {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
 
 .contact-info {
     text-align: left;
