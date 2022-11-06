@@ -352,11 +352,56 @@ h1, h2 {
     text-align: left;
     padding: 5px;
     word-spacing: 4px;
+    margin: 25px;
 }
 .contact-info h2,li {
     padding: 5px;
     margin-top: 10px;
 }
+
+/* Comment-From */
+/* ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ */
+.comment-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.comment-info  h3 {
+     width:300px;
+}
+
+#comment-form {
+    border: 2px solid black;
+    max-width: 300px;
+    height: auto;
+    margin: 30px auto 0;
+    padding: 10px;
+}
+#comment-form > label {
+    display: block;
+    padding: 5px;
+}
+#comment-form > input,textarea {
+    display: block;
+    width: 100%;
+}
+#comment-form #send-button {
+    color: #e0dada;
+    background-color: #000033;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 10px;
+    width: auto;
+}
+#comment-form #send-button:hover {
+    color: #000033;
+    background-color: #e0dada;
+}
+#comment-form > textarea {
+    height: 100px;
+}
+
+
 /* Media queries */
 
 /* For larger to medium screen sizes from 1200px and down */
