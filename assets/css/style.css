@@ -66,18 +66,17 @@ h1, h2 {
 /* Text inside the hero image */
 #overlay {
     background-color: rgba(224, 218, 218, 0.9);
-    width: 400px;
-    font-size: 24px;
+    max-width: 320px;
     text-align: center;
-    padding-top: 10px;
-    border-radius: 5%;  
-    
-    
+    padding: 10px;
+    border-radius: 5%;   
 }
 #overlay p {
     margin: 10px;
     padding: 5px;
     display: contents;
+    font-size: 100%;
+    
 }
 .book-button-outer {
     margin: 20px;
