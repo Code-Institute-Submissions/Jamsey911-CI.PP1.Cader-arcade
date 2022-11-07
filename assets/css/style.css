@@ -23,6 +23,7 @@ h1, h2 {
 #logo {
     font-size: 300%;
     float: left;
+    padding: 10px 0 0 10px;
 }
 /* Navigation */
 #menu {
