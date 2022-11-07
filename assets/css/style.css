@@ -312,15 +312,37 @@ h1, h2 {
     }
 /* Contact section starts here */
 
-/* Opening Hours */
+#hero-contact {
+        min-height: 600px;
+        width: 100%;
+        background-color: rgb(244, 244, 196);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+}
 
+/* Opening Hours/Addreess details*/
+
+.contact-open {
+    display: flex;
+    min-width: 320px;
+    
+    align-items: center;
+    flex-direction: column;
+    
+}
+.address li {
+    list-style-type: none;
+}
+/* Opening hours */
 .time-table {
     border-collapse: collapse;
-    margin: 25px;
-    min-width: 350px;
+    min-width: 320px;
     background-color: #e0dada;
     border: 2px solid #000033;
-    float: left;
+    height: 200px;
+    margin: 25px 0;
     
 }
 .time-table tr th {
@@ -340,42 +362,41 @@ h1, h2 {
 
 
 /* Email, Phone, Address */
-.contact {
-    display: flex;
-    width: 100%;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    padding-top: 10px;
+.address {
+    max-width: 320px;
+    padding: 0 0 0 15px;
+    
 }
-
-.contact-info {
-    text-align: left;
+.address h2 {
+    letter-spacing: 5px;
     padding: 5px;
-    word-spacing: 4px;
-    margin: 25px;
 }
-.contact-info h2,li {
-    padding: 5px;
-    margin-top: 10px;
+.address li {
+    list-style-type: none;  
+    padding: 15px auto; 
 }
 
 /* Comment-From */
 /* ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ */
 .comment-info {
+    min-width: 320px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
 }
+
 .comment-info  h3 {
-     width:300px;
+    text-align: center;
+     font-size: 150%;
+     padding: 5px;
 }
 
 #comment-form {
     border: 2px solid black;
-    max-width: 300px;
-    height: auto;
-    margin: 30px auto 0;
+    max-width: 320px;
+    max-height: 450px;
+    margin: 20px auto;
     padding: 10px;
+    text-align: left;
+    border-radius: 10px;
 }
 #comment-form > label {
     display: block;
@@ -401,6 +422,10 @@ h1, h2 {
     height: 100px;
 }
 
+/* Map Area */
+#map-area {
+    border: 2px solid #000033;
+}
 
 /* Media queries */
 
@@ -414,6 +439,7 @@ h1, h2 {
     #menu {
         justify-content: flex-start;
         float: left;
+        margin-bottom: 5px;
     }
     #events {
         display: contents;
@@ -436,11 +462,14 @@ h1, h2 {
       margin: 0 50px 20px 50px;
         
     }    
-
-    #contact {
-        display: flex;
-        flex-direction: column;
-        float: left;
+    #hero-contact {
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-bottom: 20px;
+    }
+    .contact-open {
+        flex-direction: row;
     }
     #banner {
         flex-direction: column;
@@ -453,6 +482,12 @@ h1, h2 {
         width: 100%;
         margin: 10px 0 20px;
     }
+    /* Map Area */
+    #map-area {
+    border: 2px solid #000033;
+    width: auto;
+    }
+
 }
 /* For medium screen sizes from 769px and down */
 
@@ -467,6 +502,12 @@ h1, h2 {
         display: flex;
         justify-content: space-evenly;
         
+    }
+    .contact-open {
+        flex-direction: column;
+    }
+    #comment-form {
+        margin: 20px auto 20px;
     }
 }
 /* For smaller screen sizes from 481px and down */
@@ -484,5 +525,4 @@ h1, h2 {
     #overlay {
         width:  300px;
     }
-
 }
