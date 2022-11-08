@@ -165,25 +165,37 @@ h1, h2 {
     justify-content: space-between;
     padding: 20px 0 20px;
 }
-#banner-1 {
+.banner-1 {
     width: 45%;
     background-color: #000033;
     color: #e0dada;
     height: auto;
 }
-#banner-2 {
+.banner-2 {
     width: 45%;
     background-color: #000033;
     color: #e0dada;
     height: auto;
 }
-#banner-1 > h3, p {
+.banner-1 h3 {
     word-spacing: 4px;
     padding: 5px;
     text-align: center;
     font-size: 150%;
 }
-#banner-2 > h3, p {
+.banner-1 p {
+    word-spacing: 4px;
+    padding: 5px;
+    text-align: center;
+    font-size: 150%;
+}
+.banner-2 h3 {
+    word-spacing: 4px;
+    padding: 5px;
+    text-align: center;
+    font-size: 150%;
+}
+.banner-2 p {
     word-spacing: 4px;
     padding: 5px;
     text-align: center;
