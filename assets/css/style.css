@@ -177,18 +177,27 @@ h1, h2 {
     color: #e0dada;
     height: auto;
 }
-#banner-1 h3, p {
+#banner-1 > h3, p {
     word-spacing: 4px;
     padding: 5px;
     text-align: center;
     font-size: 150%;
 }
-#banner-2 h3, p {
+#banner-2 > h3, p {
     word-spacing: 4px;
     padding: 5px;
     text-align: center;
     font-size: 150%;
 }
+
+/* Booking Page Starta here */
+
+.holder {
+    clear:left;
+}
+
+
+
 /* Footer/Social Media */
 
 .media {
