@@ -202,14 +202,6 @@ h1, h2 {
     font-size: 150%;
 }
 
-/* Booking Page Starta here */
-
-.holder {
-    clear:left;
-}
-
-
-
 /* Footer/Social Media */
 
 .media {
@@ -233,6 +225,86 @@ h1, h2 {
     text-decoration: none;
     color: #330000;
 }
+
+/* Bookings section sarts here */
+
+.holder {
+    background-color: #000033;
+    margin: 50px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #e0dada;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    clear: left;
+    align-items: center;
+   
+}
+.holder h2 {
+    color: #e0dada;
+}
+.form-time {
+    background-color: #000033;
+    padding: 50px;
+    outline: 3px dashed rgb(244, 244, 196);
+    outline-offset: -30px;
+    text-align: center;
+}
+.time-heading {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.heading-days {
+    font-size: 30px;
+    color: rgb(244, 244, 196);
+}
+.book-phone {
+    padding: 20px;
+    color: rgb(244, 244, 196);
+    
+}
+.form-table {
+    padding: 20px 0;
+    margin: 0 auto;
+}
+.form-head {
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+.form-book {
+    display: grid;
+    grid-row-gap: 20px;
+}
+.form-field {
+    display: flex;
+    justify-content: space-between;
+    min-width: 320px;
+}
+.form-book p {
+    font-weight: 600;
+}
+.form-book label {
+    font-weight: 600;
+}
+.form-table input,select {
+    padding: 10px 15px;
+}
+.btnbk {
+    background-color: rgb(244, 244, 196);
+    color: #000033;
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+    border-radius: 100px;
+}
+.btnbk:hover {
+    transform: scale(1.07);
+}
+
+
+
+
 
 /* Events Page Starts Here */
 
