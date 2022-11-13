@@ -70,13 +70,14 @@ h1, h2 {
     max-width: 320px;
     text-align: center;
     padding: 10px;
-    border-radius: 5%;   
+    border-radius: 5%; 
+    font-size: 120%;  
 }
 #overlay p {
     margin: 10px;
     padding: 5px;
     display: contents;
-    font-size: 100%;
+    
     
 }
 .book-button-outer {
@@ -240,9 +241,6 @@ h1, h2 {
     align-items: center;
    
 }
-.holder h2 {
-    color: #e0dada;
-}
 .form-time {
     background-color: #000033;
     padding: 50px;
@@ -251,12 +249,16 @@ h1, h2 {
     text-align: center;
 }
 .time-heading {
-    font-size: 35px;
+    font-size: 40px;
     text-transform: uppercase;
+    padding: 15px;
+    color: #000033;
+    background-color: rgb(244, 244, 196);
 }
 .heading-days {
     font-size: 30px;
     color: rgb(244, 244, 196);
+    padding: 15px 0;
 }
 .book-phone {
     padding: 20px;
@@ -571,11 +573,11 @@ h1, h2 {
     #banner {
         flex-direction: column;
     }
-    #banner-1 {
+    .banner-1 {
         width: 100%;
         margin-bottom: 10px;
     }
-    #banner-2 {
+    .banner-2 {
         width: 100%;
         margin: 10px 0 20px;
     }
@@ -606,20 +608,23 @@ h1, h2 {
     #comment-form {
         margin: 20px auto 20px;
     }
+    .holder {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    }
 }
 /* For smaller screen sizes from 481px and down */
 
 @media screen and (max-width:481px) {
 
     #overlay {
-        font-size: 20px;
+        font-size: 100%;
+        width:  300px;
     }
 
     #events-image {
         display: block;
         
-    }
-    #overlay {
-        width:  300px;
     }
 }
