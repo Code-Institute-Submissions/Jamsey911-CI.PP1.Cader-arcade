@@ -305,11 +305,19 @@ h1, h2 {
     transform: scale(1.07);
 }
 
-
-
-
-
 /* Events Page Starts Here */
+
+#event-hero-outer {
+    min-height: 700px;
+    width: 100%;
+    /* background:url("../images/hero-event.jpg") no-repeat center center; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+}
 
 #event-1 {
     background: url(../images/cod-image.jpg);
@@ -362,17 +370,6 @@ h1, h2 {
 }
 .disclaimer {
     color: red;
-}
-#event-hero-outer {
-    min-height: 700px;
-    width: 100%;
-    background:url("../images/hero-event.jpg") no-repeat center center;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-    padding: 10px;
-    
 }
     .form-event {
         background-color: #e0dada;
@@ -471,7 +468,7 @@ h1, h2 {
 }
 .address li {
     list-style-type: none;  
-    padding: 15px auto; 
+    padding: 15px; 
 }
 
 /* Comment-From */
