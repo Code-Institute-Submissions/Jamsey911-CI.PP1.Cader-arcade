@@ -310,7 +310,7 @@ h1, h2 {
 #event-hero-outer {
     min-height: 700px;
     width: 100%;
-    /* background:url("../images/hero-event.jpg") no-repeat center center; */
+    background-color: #000033; 
     display: flex;
     justify-content: space-around;
     align-items: center;
