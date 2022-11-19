@@ -483,6 +483,12 @@ h1, h2 {
 #map-area {
     border: 2px solid #000033;
 }
+/* 404 Error image page */
+.error-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 /* Media queries */
 /* For larger to medium screen sizes from 1200px and down */
 @media screen and (max-width:1200px) {
