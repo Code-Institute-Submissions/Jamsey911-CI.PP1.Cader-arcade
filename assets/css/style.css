@@ -492,11 +492,11 @@ h1, h2 {
 }
 #error-ol {
     background-color: rgba(224, 218, 218, 0.9);
-    max-width: 320px;
     text-align: center;
     padding: 10px;
     border-radius: 5%; 
-    font-size: 120%;  
+    font-size: 120%; 
+    clear: left; 
 }
 /* Media queries */
 /* For larger to medium screen sizes from 1200px and down */
