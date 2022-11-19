@@ -493,6 +493,8 @@ h1, h2 {
 #error-area {
     width: 100%;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #error-ol {
     text-align: center;
