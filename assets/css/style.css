@@ -11,9 +11,7 @@ body {
     color:#330000;
     background-color: #e0dada;
 }
-
 /* Heading and Logo */
-
 h1, h2 {
     font-family: Libre Franklin, sans-serif;
     letter-spacing: 4px;
@@ -48,7 +46,6 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #000033;
 }
-
 /* Hero Image */
 #hero-image {
     height: 500px;
@@ -56,8 +53,7 @@ h1, h2 {
     background:url("../images/hero-image.jpg") no-repeat center center;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;   
 }
 #hero-outer {
     height: 500px;
@@ -77,13 +73,10 @@ h1, h2 {
     margin: 10px;
     padding: 5px;
     display: contents;
-    
-    
 }
 .book-button-outer {
     margin: 20px;
     padding: 5px;
-
 }
 .book-button {
     background-color: #000033;
@@ -100,7 +93,6 @@ h1, h2 {
     color: #000033;
     border: 2px solid #000033;
 }
-
 /* Events Section */
 #events {
     height: 470px;
@@ -108,8 +100,7 @@ h1, h2 {
     display: flex;
     justify-content: space-evenly;
     margin: 30px 30px 30px 0;
-    align-items: center;
-    
+    align-items: center;   
 }
 #kids-gaming {
     width: 300px;
@@ -117,7 +108,6 @@ h1, h2 {
     border-radius: 20%;
     border: 20px solid #330000;
     overflow: hidden;
-    
 }
 #events-image {
     width: 300px;
@@ -129,9 +119,7 @@ h1, h2 {
 #events-info {
     width: 300px;
     text-align: center;
-    
     font-size: 100%;
-    
 }
 #events-info h2 {
     padding:30px 0 0 0px;
@@ -153,13 +141,11 @@ h1, h2 {
     margin: 20px;
     padding: 10px;
     border-radius: 5%;
-
 }
 .event-button:hover {
     background-color: #e0dada;
     color: #000033;
     border: 2px solid #000033;
-
 }
 /* Banner Section */
 #banner {
@@ -203,9 +189,7 @@ h1, h2 {
     text-align: center;
     font-size: 150%;
 }
-
 /* Footer/Social Media */
-
 .media {
     text-align: center;
     padding: 10px; 
@@ -227,9 +211,7 @@ h1, h2 {
     text-decoration: none;
     color: #330000;
 }
-
 /* Bookings section sarts here */
-
 .holder {
     background-color: #000033;
     /* margin: 50px; */
@@ -240,7 +222,6 @@ h1, h2 {
     grid-template-columns: 50% 50%;
     clear: left;
     align-items: center;
-   
 }
 .form-time {
     padding: 50px;
@@ -262,8 +243,7 @@ h1, h2 {
 }
 .book-phone {
     padding: 20px;
-    color: rgb(244, 244, 196);
-    
+    color: rgb(244, 244, 196);   
 }
 .form-table {
     padding: 20px 0;
@@ -304,9 +284,7 @@ h1, h2 {
 .btnbk:hover {
     transform: scale(1.07);
 }
-
 /* Events Page Starts Here */
-
 #event-hero-outer {
     min-height: 700px;
     width: 100%;
@@ -315,10 +293,8 @@ h1, h2 {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    padding: 10px;
-    
+    padding: 10px;    
 }
-
 #event-1 {
     background: url(../images/cod-image.jpg);
     width: 300px;
@@ -371,28 +347,28 @@ h1, h2 {
 .disclaimer {
     color: red;
 }
-    .form-event {
-        background-color: #e0dada;
-        max-width: 300px;
-        padding: 15px;
-        height: 400px;
-        border-radius: 5%;
-        border: 2px solid #000033;
-    }
-    .form-event h2 {
-        margin-bottom:10px;
-    }
-    .text-input{
-        width: 100%;
-        height: 25px;
-        margin: 5px 0 20px;
-        border: 1px solid #e0dada;
-        border-radius: 2px;
-    }
-    .text-input:hover {
-        border-color: #330000;
-    }
-    .join-button {
+.form-event {
+    background-color: #e0dada;
+    max-width: 300px;
+    padding: 15px;
+    height: 400px;
+    border-radius: 5%;
+    border: 2px solid #000033;
+}
+.form-event h2 {
+    margin-bottom:10px;
+}
+.text-input{
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #e0dada;
+    border-radius: 2px;
+}
+.text-input:hover {
+    border-color: #330000;
+}
+.join-button {
     margin: 20px 60px;
     border-radius: 5px;
     padding: 20px 35px 20px 35px;
@@ -400,32 +376,27 @@ h1, h2 {
     font-size: 150%;
     background-color: #000033;
     color: #e0dada;
-    }
-    .join-button:hover {
-        background-color: #fafafa;
-        color: #f16c6b;
-    }
-/* Contact section starts here */
-
-#hero-contact {
-        min-height: 600px;
-        width: 100%;
-        background-color: rgb(244, 244, 196);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        flex-wrap: wrap;
 }
-
+.join-button:hover {
+    background-color: #fafafa;
+    color: #f16c6b;
+}
+/* Contact section starts here */
+#hero-contact {
+    min-height: 600px;
+    width: 100%;
+    background-color: rgb(244, 244, 196);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
 /* Opening Hours/Addreess details*/
-
 .contact-open {
     display: flex;
     min-width: 320px;
-    
     align-items: center;
     flex-direction: column;
-    
 }
 .address li {
     list-style-type: none;
@@ -438,13 +409,11 @@ h1, h2 {
     border: 2px solid #000033;
     height: 200px;
     margin: 25px 0;
-    
 }
 .time-table tr th {
     text-align: left;
     font-weight: bold;
     padding: 12px;
-    
 }
 .time-table tr {
     border-bottom: 1px solid #595959; 
@@ -452,15 +421,11 @@ h1, h2 {
 .time-table td {
     padding:12px;
     text-align: left;
-    
 }
-
-
 /* Email, Phone, Address */
 .address {
     max-width: 320px;
     padding: 0 0 0 15px;
-    
 }
 .address h2 {
     letter-spacing: 5px;
@@ -470,20 +435,16 @@ h1, h2 {
     list-style-type: none;  
     padding: 15px; 
 }
-
 /* Comment-From */
-/* ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ */
 .comment-info {
     min-width: 320px;
     display: flex;
 }
-
 .comment-info  h3 {
     text-align: center;
      font-size: 150%;
      padding: 5px;
 }
-
 #comment-form {
     border: 2px solid black;
     max-width: 320px;
@@ -518,18 +479,13 @@ h1, h2 {
 #comment-form > textarea {
     height: 100px;
 }
-
 /* Map Area */
 #map-area {
     border: 2px solid #000033;
 }
-
 /* Media queries */
-
 /* For larger to medium screen sizes from 1200px and down */
-
 @media screen and (max-width:1200px) {
-    
     #logo {
         width: 100%;
     }
@@ -584,21 +540,17 @@ h1, h2 {
     border: 2px solid #000033;
     width: auto;
     }
-
 }
 /* For medium screen sizes from 769px and down */
-
 @media screen and (max-width:769px) {
     #menu {
         flex-direction: column;
         justify-content: flex-start;
         float: left;
-
     }
     #events {
         display: flex;
         justify-content: space-evenly;
-        
     }
     .contact-open {
         flex-direction: column;
@@ -613,17 +565,13 @@ h1, h2 {
     }
 }
 /* For smaller screen sizes from 481px and down */
-
 @media screen and (max-width:481px) {
-
     #overlay {
         font-size: 100%;
         width:  300px;
     }
-
     #events-image {
-        display: block;
-        
+        display: block;  
     }
     .holder {
         align-content: space-around;
