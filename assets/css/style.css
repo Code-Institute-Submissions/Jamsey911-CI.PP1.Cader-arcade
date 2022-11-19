@@ -232,7 +232,7 @@ h1, h2 {
 
 .holder {
     background-color: #000033;
-    margin: 50px;
+    /* margin: 50px; */
     letter-spacing: 1px;
     font-weight: 400;
     color: #e0dada;
@@ -243,7 +243,6 @@ h1, h2 {
    
 }
 .form-time {
-    background-color: #000033;
     padding: 50px;
     outline: 3px dashed rgb(244, 244, 196);
     outline-offset: -30px;
@@ -278,6 +277,7 @@ h1, h2 {
 .form-book {
     display: grid;
     grid-row-gap: 20px;
+    background-color: #000033;
 }
 .form-field {
     display: flex;
@@ -624,5 +624,15 @@ h1, h2 {
     #events-image {
         display: block;
         
+    }
+    .holder {
+        align-content: space-around;
+    }
+    .form-field {
+        flex-direction: column;
+        min-width: 300px;
+    }
+    .form-book label {
+        padding: 5px;
     }
 }
