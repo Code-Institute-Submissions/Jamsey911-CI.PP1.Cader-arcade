@@ -490,11 +490,14 @@ h1, h2 {
     object-fit: cover;
     clear:left;
 }
+#error-area {
+    width: 100%;
+    display: flex;
+}
 #error-ol {
     text-align: center;
     font-size: 120%; 
-    clear: left; 
-    display: flex;
+    clear: left;
     max-width: 500px;
 }
 /* Media queries */
