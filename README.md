@@ -1,9 +1,9 @@
 # Cader Arcade
 (Developer: James Lynch)
 
-![Mockup image]()
+![Mockup image](docs/am-i-responsive.jpg)
 
-[Live webpage](https://jamsey911.github.io/Code-Institute-PP1.Cader-arcade/index.html)
+[Live webpage](https://https://jamsey911.github.io/CI.PP1.Cader-arcade/index.html)
 
 ## Table of Content
 
