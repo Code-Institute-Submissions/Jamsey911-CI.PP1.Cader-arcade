@@ -110,9 +110,13 @@ My goal is to create a welcoming yet efficent website so people of all ages feel
 
 
 ### Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
+Libre Baskerville was used for the logo and main headings. 
 <br>
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+Libre Franklin was used for the sub-heading and smaller body elements. 
+<br>
+The fonts were chosen because the Libre Baskerville matched some of the illustraitions in the arcade and match for this font was made through fontjoy.
+<br>
+San-serif was used as my backup.
 
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
