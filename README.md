@@ -138,7 +138,7 @@ The page is structured in a simple and recognizable way with it being user frien
 </details>
 <details><summary>Contacts</summary>
 <img src="docs/wireframes/contactswf.JPG">
-</details>
+</details>git add .
 
 ## Technologies Used
 
@@ -147,17 +147,18 @@ The page is structured in a simple and recognizable way with it being user frien
 - CSS
 
 ### Frameworks & Tools
-- Bootstrap v5.0
+- Favicon<span>.</span>io
 - Git
 - GitHub
 - Gitpod
-- Tinypng
+- Font Awesome
 - Paint<span>.</span>NET
 - Balsamiq
 - Google Fonts
 - Adobe Color
-- Font Awsome
-- Favicon<span>.</span>io
+- Pexels
+
+
 
 
 
