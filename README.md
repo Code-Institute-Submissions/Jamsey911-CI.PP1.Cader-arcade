@@ -128,19 +128,16 @@ The page is structured in a simple and recognizable way with it being user frien
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/wireframes-homepage.png">
+<img src="docs/wireframes/indexwf.JPG">
 </details>
-<details><summary>About</summary>
-<img src="docs/wireframes/wireframes-about.png">
+<details><summary>Bookings</summary>
+<img src="docs/wireframes/bookingswf.JPG">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/wireframes/wireframes-menu.png">
+<details><summary>Upcoming Events</summary>
+<img src="docs/wireframes/eventswf.JPG">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframes-gallery.png">
-</details>
-<details><summary>Contact</summary>
-<img src="docs/wireframes/wireframes-contact.png">
+<details><summary>Contacts</summary>
+<img src="docs/wireframes/contacts.JPG">
 </details>
 
 ## Technologies Used
