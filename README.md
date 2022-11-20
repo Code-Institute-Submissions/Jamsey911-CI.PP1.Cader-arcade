@@ -137,7 +137,7 @@ The page is structured in a simple and recognizable way with it being user frien
 <img src="docs/wireframes/eventswf.JPG">
 </details>
 <details><summary>Contacts</summary>
-<img src="docs/wireframes/contacts.JPG">
+<img src="docs/wireframes/contactswf.JPG">
 </details>
 
 ## Technologies Used
