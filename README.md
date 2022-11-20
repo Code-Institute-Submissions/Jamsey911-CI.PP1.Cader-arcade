@@ -106,7 +106,7 @@ My goal is to create a welcoming yet efficent website so people of all ages feel
  The colour sheme was chosen as a dark red and dark blue theme with a light grey and soft yellow to give it contrast. This choice was also aided by colorhexa in which a Split Complementary Color was selected. A slighly soft red was selected for certain alerts in the events page.
 <br>
 
-![Colour scheme](docs/features/color-palette.jJPG)
+![Colour scheme](docs/features/color-palette.JPG)
 
 
 ### Fonts
