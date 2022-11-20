@@ -138,7 +138,7 @@ The page is structured in a simple and recognizable way with it being user frien
 </details>
 <details><summary>Contacts</summary>
 <img src="docs/wireframes/contactswf.JPG">
-</details>git add .
+</details>
 
 ## Technologies Used
 
