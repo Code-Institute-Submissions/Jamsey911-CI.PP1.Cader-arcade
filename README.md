@@ -94,4 +94,72 @@
 14. As the site owner, I want users to get to know the Arcade 
 15. As the site owner, I want the users to be able to contact us
 
+<!-- Day 2 -->
+## Design
+
+### Design Choices
+This project has been created out of my love for video games and wish for something when i was younger for a local arcade to have live inhouse tournaments where i could socialise with fellow gamers. 
+
+My goal is to create a welcoming yet efficent website so people of all ages feel at ease while they navigate through the content. In order to achieve this, all relevant content is made easy to read in the index with links to the sign up page for any upcoming events that are taking place another seperate page to book for a party(Birthday, confirmation, christmas) and another page with all relevant contact information.
+
+### Colour
+ The colour sheme was chosen as a dark red and dark blue theme with a light grey and soft yellow to give it contrast. This choice was also aided by colorhexa in which a Split Complementary Color was selected. A slighly soft red was selected for certain alerts in the events page.
+<br>
+
+![Colour scheme](docs/features/color-palette.jJPG)
+
+
+### Fonts
+Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
+<br>
+Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+
+### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
+The website consists of five separate pages: 
+- A homepage with a sections for News and Sunday Meal Offers
+- An about page with the About Us and Meet the Chef
+- A menu page
+- A image gallery with images and video showcasing the general feel of the restaurant
+- A contact page with a contact form, a map and information about the bussines section
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/wireframes-homepage.png">
+</details>
+<details><summary>About</summary>
+<img src="docs/wireframes/wireframes-about.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/wireframes/wireframes-menu.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/wireframes-gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/wireframes-contact.png">
+</details>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- Paint<span>.</span>NET
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awsome
+- Favicon<span>.</span>io
+
+
+
 
