@@ -119,13 +119,11 @@ The fonts were chosen because the Libre Baskerville matched some of the illustra
 San-serif was used as my backup.
 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
-The website consists of five separate pages: 
-- A homepage with a sections for News and Sunday Meal Offers
-- An about page with the About Us and Meet the Chef
-- A menu page
-- A image gallery with images and video showcasing the general feel of the restaurant
-- A contact page with a contact form, a map and information about the bussines section
+The page is structured in a simple and recognizable way with it being user friendly so anybody can find it easy to learn. The home page is designed to have all relevanet information once opened. The logo is postioned on the left and navigation on the right and this is shown on all pages in the same way. The design is created also to collaspe on itself when being viewed in differnt viewports while maintaing all relevant information: 
+- A homepage with sections for the bookings section and events section
+- An bookings page with relevant information
+- A events page in which in which you can sign up for an event
+- A contacts page with a message section to contact the Arcade
 
 ### Wireframes
 
