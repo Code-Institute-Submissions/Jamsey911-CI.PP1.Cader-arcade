@@ -103,9 +103,9 @@ This project has been created out of my love for video games and wish for someth
 My goal is to create a welcoming yet efficent website so people of all ages feel at ease while they navigate through the content. In order to achieve this, all relevant content is made easy to read in the index with links to the sign up page for any upcoming events that are taking place another seperate page to book for a party(Birthday, confirmation, christmas) and another page with all relevant contact information.
 
 ### Colour
- The colour sheme was chosen as a dark red and dark blue theme with a light grey and soft yellow to give it contrast. This choice was also aided by colorhexa in which a Split Complementary Color was selected. A slighly soft red was selected for certain alerts in the events page.
+ The colour sheme was chosen as a dark red and dark blue theme, and was also aided by colorhexa in which a Split Complementary Color was selected. A light grey and soft yellow was used to give it contrast which was selected through adobe color. A slighly soft red was selected for certain alerts in the events page.
 <br>
-
+ 
 ![Colour scheme](docs/features/color-palette.JPG)
 
 
