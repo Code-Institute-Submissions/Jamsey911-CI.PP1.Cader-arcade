@@ -177,17 +177,17 @@ The webiste consists of 4 pages and fourteen features
 
 ![Hero Image](docs/features/feat-hero.JPG)
 
-### Upcoming Events
+### Upcoming Events Details
 - Gives the user a desription of what type of events take place with a link to take you to the events page
 - User stories covered: 2, 6 
 
-![Upcoming Evnets](docs/features/feat-events.JPG)
+![Upcoming Evnets Details](docs/features/feat-events.JPG)
 
 ### Events Banners
 - Allowes users to see what events are upcoming
 - User stories covered: 2, 6
 
-![Event Banners](docs/features/event-banners.JPG)
+![Event Banners](docs/features/feat-banners.JPG)
 
 ### Footer
 - Featured on all pages
@@ -195,6 +195,18 @@ The webiste consists of 4 pages and fourteen features
 - User stories covered: 3, 11, 15
 
 ![Footer](docs/features/feat-footer.JPG)
+
+### Booking Detials 
+- Gives an overview of the details related to making a booking 
+- User stories covered: 12
+
+![Booking Details](docs/features/feat-bookings-details.JPG)
+
+### Bookings Form
+- Imagery of the restaurant arranged in a grid
+- User stories covered: 5, 12
+
+![Bookings Form](docs/features/feat-bookings-form.JPG)
 
 
 
