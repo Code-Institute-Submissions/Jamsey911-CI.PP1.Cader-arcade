@@ -73,26 +73,27 @@
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the Arcade is lokated
+1. As a first time user, I want to know where the Arcade is located
 2. As a first time user, I want to know the events that take place
 3. As a first time user, I want to get a feel for the Arcade
 4. As a first time user, I want to get be able to ask a question if needed
+5. As a first time user, I want to make a booking
 
 
 #### Returning User
-5. As a returning user, I want to see what upcoming events are takeing place
-6. As a returnign user, I want to know the opening times
-7. As a returning user, I want to find a phone number to call for booking
-8. As a returning user, I want to find an email to email the Arcade
-9. As a returning user, I want to leave a comment, suggestion or message to the staff
-10. As a returning user, I want to find the Arcade on social media
-11. As a returning user, I want to know if i have to book for a certain amount of people
-12. As a returning user, I want to get directions to the Arcade
+6. As a returning user, I want to sign up for upcoming events are takeing place
+7. As a returnign user, I want to know the opening times
+8. As a returning user, I want to find a phone number to call for booking
+9. As a returning user, I want to find an email to email the Arcade
+10. As a returning user, I want to leave a comment, suggestion or message to the staff
+11. As a returning user, I want to find the Arcade on social media
+12. As a returning user, I want to know if i have to book for a certain amount of people
+13. As a returning user, I want to get directions to the Arcade
 
 #### Site Owner 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-14. As the site owner, I want users to get to know the Arcade 
-15. As the site owner, I want the users to be able to contact us
+14. As the site owner, I want users to find news about upcoming events or changes in opening times
+15. As the site owner, I want users to get to know the Arcade 
+16. As the site owner, I want the users to be able to contact us
 
 <!-- Day 2 -->
 ## Design
@@ -172,8 +173,15 @@ The webiste consists of 4 pages and fourteen features
 ### Hero Image
 - The image provides an introduction to the arcade 
 - It also provides a short discription of what is available and a link to the boookings section
+- User stories covered: 3, 5
 
-![Carousel](docs/features/feat-hero.JPG)
+![Hero Image](docs/features/feat-hero.JPG)
+
+### Upcoming Events
+- Allowes the user to see upcoming events along with a link to take you to the events page
+- User stories covered: 2, 6 
+
+![Upcoming Evnets](docs/features/feat-events.JPG)
 
 
 
