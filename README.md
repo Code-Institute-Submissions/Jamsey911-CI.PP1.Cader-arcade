@@ -81,7 +81,7 @@
 
 
 #### Returning User
-6. As a returning user, I want to sign up for upcoming events are takeing place
+6. As a returning user, I want to sign up for upcoming events takeing place
 7. As a returnign user, I want to know the opening times
 8. As a returning user, I want to find a phone number to call for booking
 9. As a returning user, I want to find an email to email the Arcade
@@ -178,12 +178,23 @@ The webiste consists of 4 pages and fourteen features
 ![Hero Image](docs/features/feat-hero.JPG)
 
 ### Upcoming Events
-- Allowes the user to see upcoming events along with a link to take you to the events page
+- Gives the user a desription of what type of events take place with a link to take you to the events page
 - User stories covered: 2, 6 
 
 ![Upcoming Evnets](docs/features/feat-events.JPG)
 
+### Events Banners
+- Allowes users to see what events are upcoming
+- User stories covered: 2, 6
 
+![Event Banners](docs/features/event-banners.JPG)
+
+### Footer
+- Featured on all pages
+- Consists of social media links
+- User stories covered: 3, 11, 15
+
+![Footer](docs/features/feat-footer.JPG)
 
 
 
