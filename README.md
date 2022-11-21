@@ -192,7 +192,7 @@ The webiste consists of 4 pages and fourteen features
 ### Footer
 - Featured on all pages
 - Consists of social media links
-- User stories covered: 3, 11, 15
+- User stories covered: 3, 11, 14, 15
 
 ![Footer](docs/features/feat-footer.JPG)
 
@@ -203,10 +203,48 @@ The webiste consists of 4 pages and fourteen features
 ![Booking Details](docs/features/feat-bookings-details.JPG)
 
 ### Bookings Form
-- Imagery of the restaurant arranged in a grid
+- Gives all relevent information in regards to requirments to make a booking
 - User stories covered: 5, 12
 
 ![Bookings Form](docs/features/feat-bookings-form.JPG)
+
+### Event Details
+- Gives an overview of the details to upcoming events 
+- User stories covered: 2, 3, 6, 15
+
+![Event Details](docs/features/feat-events-details.JPG)
+
+### Events Form
+- Gives all relevent information in regards to requirments to sign up for an event
+- User stories covered: 6
+
+![Events Form](docs/features/feat-events-form.JPG)
+
+<!-- Contacts page -->
+
+### Opening Hours
+- Provides the user with information about the opening hours of the Arcade
+- User stories covered: 7
+
+![Opening Hours](docs/features/feat-hours.JPG)
+
+### Contact Details
+- Provides the user with information about the Arcades address, phone number and email
+- User stories covered: 1, 8, 9
+
+![Contact Details](docs/features/feat-contact-info.JPG)
+
+### Contact Form
+- A way for user to provide feedback
+- User stories covered: 4, 10, 12, 16
+
+![Contact Form](docs/features/feat-message-box.JPG)
+
+### Map
+- Shows the restaurant location on an embeded Google Map
+- User stories covered: 1, 13
+
+![Map](docs/features/feat-map.JPG)
 
 
 
