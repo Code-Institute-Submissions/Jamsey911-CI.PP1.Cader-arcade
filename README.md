@@ -167,7 +167,7 @@ The webiste consists of 4 pages and fourteen features
 - This gives the instant access to all pages on the website
 - The page in which the user is currently viewing is underlined
 
-![Logo and navbar](docs/features/logo-nav.jpg)
+![Logo and navbar](docs/features/logo-nav.JPG)
 
 
 
