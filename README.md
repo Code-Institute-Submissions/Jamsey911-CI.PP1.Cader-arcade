@@ -169,6 +169,12 @@ The webiste consists of 4 pages and fourteen features
 
 ![Logo and navbar](docs/features/logo-nav.JPG)
 
+### Hero Image
+- The image provides an introduction to the arcade 
+- It also provides a short discription of what is available and a link to the boookings section
+
+![Carousel](docs/features/feat-hero.JPG)
+
 
 
 
