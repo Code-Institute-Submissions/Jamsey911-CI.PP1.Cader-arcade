@@ -152,11 +152,25 @@ The page is structured in a simple and recognizable way with it being user frien
 - GitHub
 - Gitpod
 - Font Awesome
-- Paint<span>.</span>NET
+- Snipping Tool
 - Balsamiq
 - Google Fonts
 - Adobe Color
 - Pexels
+
+## Features
+The webiste consists of 4 pages and fourteen features
+
+### Logo and Navigation Bar
+- Featured on all pages
+- The navbar is fully responsive and changes layout when viewed on differnt viewports. It consists of links to the Homepage, Bookings page, Upcoming Events page and Contacts page
+- This gives the instant access to all pages on the website
+- The page in which the user is currently viewing is underlined
+
+![Logo and navbar](docs/features/logo-nav.jpg)
+
+
+
 
 
 
