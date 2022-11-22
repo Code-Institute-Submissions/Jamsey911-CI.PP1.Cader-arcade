@@ -273,6 +273,21 @@ All pages pass with no errors no warnings to show.
 <img src="docs/validation/val-css.JPG">
 </details>
 
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+<img src="docs/validation/access-index.JPG">
+</details>
+<details><summary>Bookings</summary>
+<img src="docs/validation/access-bookings.JPG">
+</details>
+<details><summary>Upcoming Events</summary>
+<img src="docs/validation/access-events.JPG">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/access-contact.JPG">
+</details>
+
 
 
 
