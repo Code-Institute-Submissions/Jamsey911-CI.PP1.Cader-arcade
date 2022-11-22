@@ -246,6 +246,24 @@ The webiste consists of 4 pages and fourteen features
 
 ![Map](docs/features/feat-map.JPG)
 
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/val-index.JPG">
+</details>
+<details><summary>Bookings</summary>
+<img src="docs/validation/val-bookings.JPG">
+</details>
+<details><summary>Upcoming Events</summary>
+<img src="docs/validation/val-events.JPG">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/val-contacts.JPG">
+</details>
+
+
 
 
 
