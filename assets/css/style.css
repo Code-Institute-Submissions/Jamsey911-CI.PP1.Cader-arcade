@@ -6,14 +6,14 @@
     border: none;
 }
 body {
-    font-family: Libre Baskerville, sans-serif;
+    font-family: "Libre Baskerville", sans-serif;
     font-weight: 300;
     color:#330000;
     background-color: #e0dada;
 }
 /* Heading and Logo */
 h1, h2 {
-    font-family: Libre Franklin, sans-serif;
+    font-family: "Libre Franklin", sans-serif;
     letter-spacing: 4px;
     color: #000033;
     text-transform: uppercase;

@@ -160,7 +160,7 @@ The page is structured in a simple and recognizable way with it being user frien
 - Pexels
 
 ## Features
-The webiste consists of 4 pages and fourteen features
+The webiste consists of 4 pages and twelve features
 
 ### Logo and Navigation Bar
 - Featured on all pages
@@ -212,7 +212,7 @@ The webiste consists of 4 pages and fourteen features
 - Gives an overview of the details to upcoming events 
 - User stories covered: 2, 3, 6, 15
 
-![Event Details](docs/features/feat-events-details.JPG)
+![Event Details](docs/features/feat-event-details.JPG)
 
 ### Events Form
 - Gives all relevent information in regards to requirments to sign up for an event
