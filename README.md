@@ -263,6 +263,16 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <img src="docs/validation/val-contacts.JPG">
 </details>
 
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+All pages pass with no errors no warnings to show.
+<details><summary>whole page</summary>
+<img src="docs/validation/val-whole.JPG">
+</details>
+<details><summary>style.css</summary>
+<img src="docs/validation/val-css.JPG">
+</details>
+
 
 
 
