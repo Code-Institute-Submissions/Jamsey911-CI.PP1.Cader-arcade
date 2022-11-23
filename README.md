@@ -179,7 +179,8 @@ The webiste consists of 4 pages and twelve features
 
 ### Upcoming Events Details
 - Gives the user a desription of what type of events take place with a link to take you to the events page
-- User stories covered: 2, 6 
+- Shows images of past events
+- User stories covered: 2, 3, 6 
 
 ![Upcoming Evnets Details](docs/features/feat-events.JPG)
 
@@ -192,7 +193,7 @@ The webiste consists of 4 pages and twelve features
 ### Footer
 - Featured on all pages
 - Consists of social media links
-- User stories covered: 3, 11, 14, 15
+- User stories covered: 11, 14, 15
 
 ![Footer](docs/features/feat-footer.JPG)
 
@@ -344,15 +345,15 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-2-2.jpg">
 </details>
 
-3. As a first time user, I want to know more about the restaurant
+3. As a first time user, I want to get a feel for the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to the About page and locate the About Us section | Find description of the restaurant | Works as expected |
-| Customer reviews | Navigate to the About page, scroll down to What our guests say section | Read customer reviews | Works as expected | 
+| Hero Image | Displayed on home page to the About page and locate the About Us section | Image visible with link to bookings page | Works as expected |
+| Past event images | Scroll down in home page to events section | Images visible with link to events page | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
+<img src="docs/user-story-testing/us-3.jpg">
 </details>
 
 4. As a first time user, I want to get a feel of what to expect at the restaurant
