@@ -366,14 +366,16 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-4.jpg">
 </details>
 
-5. As a returning user, I want to see the Sunday meal offer
+5. As a first time user, I want to make a booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Meal-deal | On home page scroll down to the Sunday meal deal section | Find the meal-deal for the upcomming Sunday | Works as expected |
+| Bookings details | In main hero, click link to take you to bookings page | Bookings form should be visible | Works as expected |
+| Bookings page | click on bookings link in header | Bookings form will be shown | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-5.jpg">
+<img src="docs/user-story-testing/us-5-1.jpg">
+<img src="docs/user-story-testing/us-5-2.jpg">
 </details>
 
 6. As a returnign user, I want to know the opening times
