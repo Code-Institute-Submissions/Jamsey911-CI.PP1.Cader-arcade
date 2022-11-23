@@ -289,6 +289,201 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+<img src="docs/validation/lighthouse-performance-index.jpg">
+</details>
+<details><summary>Bookings</summary>
+<img src="docs/validation/lighthouse-performance-about.jpg">
+</details>
+<details><summary>Upcoming Events</summary>
+<img src="docs/validation/lighthouse-performance-menu.jpg">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/lighthouse-performance-contact.jpg">
+</details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Lenovo Yoga 2 Pro (both in pc and tablet mode)
+- Honor 20 pro
+- Xiaomi Redmi Note 7
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+
+### Testing user stories
+
+1. As a first time user, I want to know where the Arcade is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
+| Contact information section | In Contact page  | Find the address of the Arcade | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/us-1.jpg">
+</details>
+
+2. As a first time user, I want to know the events that take place
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Upcoming Events | Navigate to the Upcoming Events | See evetns on page | Works as expected |
+| Evetns Banners | Scrool through home page | See banners displayed | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/us-2-1.jpg">
+<img src="docs/user-story-testing/us-2-2.jpg">
+</details>
+
+3. As a first time user, I want to know more about the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the About page and locate the About Us section | Find description of the restaurant | Works as expected |
+| Customer reviews | Navigate to the About page, scroll down to What our guests say section | Read customer reviews | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3-14.jpg">
+</details>
+
+4. As a first time user, I want to get a feel of what to expect at the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the Gallery page | Find pictures of the restaurant and food served there | Works as expected |
+| Promo video | Navigate to the GAlelry page and scroll to the promo video | Watch promo video | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4.jpg">
+</details>
+
+5. As a returning user, I want to see the Sunday meal offer
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Meal-deal | On home page scroll down to the Sunday meal deal section | Find the meal-deal for the upcomming Sunday | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5.jpg">
+</details>
+
+6. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-6.jpg">
+</details>
+
+7. As a returning user, I want to find a phone number to call for reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7v1-15.jpg">
+<img src="docs/user-story-testing/user-story-7v2-15.jpg">
+</details>
+
+8. As a returning user, I want to see the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the menu page | Read the menu | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.jpg">
+</details>
+
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9-15.jpg">
+</details>
+
+10. As a returning user, I want to find the restaurant on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10.jpg">
+</details>
+
+11. As a returning user, I want to know who is preparing the food
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Meet the Chef | Navigate to the About page and scroll down to Meet the Chef section | Find brief bio of the Chef | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-11.jpg">
+</details>
+
+12. As a returning user, I want to get directions to the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+</details>
+
+13. As the site owner, I want users to find news about upcoming events or changes in opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-13.jpg">
+</details>
+
+14. As the site owner, I want users to get to know the restaurant 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3-14.jpg">
+</details>
+
+15. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7v1-15.jpg">
+<img src="docs/user-story-testing/user-story-7v2-15.jpg">
+<img src="docs/user-story-testing/user-story-9-15.jpg">
+</details>
+
+
+
 
 
 
