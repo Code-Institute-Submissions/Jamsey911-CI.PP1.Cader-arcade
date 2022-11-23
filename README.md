@@ -356,15 +356,14 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-3.jpg">
 </details>
 
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+4. As a first time user, I want to get be able to ask a question if needed
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery | Navigate to the Gallery page | Find pictures of the restaurant and food served there | Works as expected |
-| Promo video | Navigate to the GAlelry page and scroll to the promo video | Watch promo video | Works as expected |
+| Contact Form | Navigate to the Contact page  | Enter details to send a message  | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-4.jpg">
+<img src="docs/user-story-testing/us-4.jpg">
 </details>
 
 5. As a returning user, I want to see the Sunday meal offer
