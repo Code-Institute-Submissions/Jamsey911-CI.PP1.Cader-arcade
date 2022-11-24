@@ -308,9 +308,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
-- Lenovo Yoga 2 Pro (both in pc and tablet mode)
-- Honor 20 pro
-- Xiaomi Redmi Note 7
+- Device name	LAPTOP-V71L4FJB
+(both in pc and tablet mode)
+- Smasung S21+
+- Ipad
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
@@ -501,6 +502,37 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-8.jpg">
 <img src="docs/user-story-testing/us-9.jpg">
 </details>
+
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
+| The user can submit a contact form input without a message | Add required attribute to message input field |
+| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
+| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
+| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://jamsey911.github.io/CI.PP1.Cader-arcade/"
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7.Press Enter to create your local clone.
 
 
 
