@@ -87,7 +87,7 @@
 9. As a returning user, I want to find an email to email the Arcade
 10. As a returning user, I want to leave a comment, suggestion or message to the staff
 11. As a returning user, I want to find the Arcade on social media
-12. As a returning user, I want to know if i have to book for a certain amount of people
+12. As a returning user, I want to know details in regards to making a booking
 13. As a returning user, I want to get directions to the Arcade
 
 #### Site Owner 
@@ -388,12 +388,6 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-6.jpg">
 </details>
 
-8. As a returning user, I want to find a phone number to call for booking
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| contact - contact information section | In the contact page with address and email | See phone number | Works as expected |
-
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/us-7v1-15.jpg">
 <img src="docs/user-story-testing/user-story-7v2-15.jpg">
@@ -409,64 +403,64 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-7.jpg">
 </details>
 
-8. As a returning user, I want to see the menu
+8. As a returning user, I want to find a phone number to call for booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the menu page | Read the menu | Works as expected |
+| contact - contact information section | In the contact page with address and email | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/us-8.jpg">
 </details>
 
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
+9. As a returning user, I want to find an email address to email the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| contact - contact information section | In the contact page with address and phone number | See Email address | Works as expectd |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-9-15.jpg">
+<img src="docs/user-story-testing/us-9.jpg">
 </details>
 
-10. As a returning user, I want to find the restaurant on social media
+10. As a returning user, I want to leave a comment, suggestion or message to the staff
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+| Contact message form | Navigate to the Contact Page and locate the message form, fill out and submit | Data submited via contact form | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-10.jpg">
+<img src="docs/user-story-testing/us-10.jpg">
 </details>
 
-11. As a returning user, I want to know who is preparing the food
+11. As a returning user, I want to find the Arcade on social media
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Meet the Chef | Navigate to the About page and scroll down to Meet the Chef section | Find brief bio of the Chef | Works as expected |
+|Footer - Social Media | Navigate to the footer on each page | Opens Social media in new page| Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-11.jpg">
 </details>
 
-12. As a returning user, I want to get directions to the restaurant
+12. As a returning user, I want to know details in regards to making a booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+| Bookings - Bookings information | Navigate to the Bookings page, detail under header | See Booking information | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/us-12.jpg">
 </details>
 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
+13. As a returning user, I want to get directions to the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Map | Navigate to the Contact, locate the map and click on directions link | See directions to the Arcade on Goole Maps | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-13.jpg">
+<img src="docs/user-story-testing/us-13.jpg">
 </details>
 
 14. As the site owner, I want users to get to know the restaurant 
