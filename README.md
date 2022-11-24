@@ -91,7 +91,7 @@
 13. As a returning user, I want to get directions to the Arcade
 
 #### Site Owner 
-14. As the site owner, I want users to find news about upcoming events or changes in opening times
+14. As the site owner, I want users to find out about upcoming events
 15. As the site owner, I want users to get to know the Arcade 
 16. As the site owner, I want the users to be able to contact us
 
@@ -427,7 +427,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact message form | Navigate to the Contact Page and locate the message form, fill out and submit | Data submited via contact form | Works as expected | 
+| Contact - message form | Navigate to the Contact Page and locate the message form, fill out and submit | Data submited via contact form | Works as expected | 
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/us-10.jpg">
@@ -463,28 +463,43 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-13.jpg">
 </details>
 
-14. As the site owner, I want users to get to know the restaurant 
+14. As the site owner, I want users to find out about upcoming events
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+| Upcoming Events | Navigate to the Upcoming Events | See evetns on page | Works as expected |
+| Evetns Banners | Scrool through home page | See banners displayed | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
+<img src="docs/user-story-testing/us-2-1.jpg">
+<img src="docs/user-story-testing/us-2-2.jpg">
 </details>
 
-15. As the site owner, I want the users to be able to contact us
+15. As the site owner, I want users to get to know the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the phone number | Works as expected |
+| Hero Image | Displayed on home page to the About page and locate the About Us section | Image visible with link to bookings page | Works as expected |
+| Past event images | Scroll down in home page to events section | Images visible with link to events page | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
-<img src="docs/user-story-testing/user-story-9-15.jpg">
+<img src="docs/user-story-testing/us-3.jpg">
+</details>
+
+16. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact - message form | Navigate to the Contact Page and locate the message form, fill out and submit | Data submited via contact form | Works as expected | 
+| contact - contact information section | In the contact page displayed below the header | See Opening hours grid | Works as expected |
+| contact - contact information section | In the contact page with address and email | See phone number | Works as expected |
+| contact - contact information section | In the contact page with address and phone number | See Email address | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/us-10.jpg">
+<img src="docs/user-story-testing/us-7.jpg">
+<img src="docs/user-story-testing/us-8.jpg">
+<img src="docs/user-story-testing/us-9.jpg">
 </details>
 
 
