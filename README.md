@@ -378,26 +378,35 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-5-2.jpg">
 </details>
 
-6. As a returnign user, I want to know the opening times
+6. As a returning user, I want to sign up for upcoming events taking place
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+| Upcoming Events | Navigate to the Upcoming Events | See evetns form on page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-6.jpg">
+<img src="docs/user-story-testing/us-6.jpg">
 </details>
 
-7. As a returning user, I want to find a phone number to call for reservation
+8. As a returning user, I want to find a phone number to call for booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| contact - contact information section | In the contact page with address and email | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
+<img src="docs/user-story-testing/us-7v1-15.jpg">
 <img src="docs/user-story-testing/user-story-7v2-15.jpg">
+</details>
+
+7. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| contact - contact information section | In the contact page displayed below the header | See Opening hours grid | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/us-7.jpg">
 </details>
 
 8. As a returning user, I want to see the menu
@@ -407,7 +416,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the menu page | Read the menu | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-8.jpg">
+<img src="docs/user-story-testing/us-8.jpg">
 </details>
 
 9. As a returning user, I want to leave some comment, suggestion or message to the staff
