@@ -542,9 +542,10 @@ In order of apearance:
 - [hero-image](assets/images/hero-image.jpg): Photo by <a href="https://www.pexels.com/@mikechie-esparagoza-749296/">Mikechie Esparagoza</a> on <a href="https://www.pexels.com/search/arcade/">Pexels</a>
 - [gaming-group](assets/images/gaming-group.jpg): Photo by <a href="https://www.pexels.com/@rodnae-prod/">RODNAE Productions </a> on <a href="https://www.pexels.com/photo/men-playing-computer-games-7915242/">Pexels</a>
 - [kids-gaming](assets/images/kids-gaming.jpg): Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro studio</a> on <a href="https://www.pexels.com/photo/people-standing-in-front-of-store-4836368/">Pexels</a> 
-- [cod-image](assets/images/cod-image.jpg): <a href='https://www.freepik.com/photos/food'>Food photo created by freepik - www.freepik.com</a>
-- [fifa-image](assets/images/fifa-image.jpg): : Photo by <a href="https://www.pexels.com/@mike-468229/">Mike</a> on <a href="https://www.pexels.com/photo/aerial-view-of-soccer-field-1171084/">Pexels</a> 
-- [404 error image](assets/images/404img.jng): <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
+- [cod-image](assets/images/cod-image.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/photo/soldier-in-camouflage-shirt-163347/">Pexels</a> 
+- [fifa-image](assets/images/fifa-image.jpg): Photo by <a href="https://www.pexels.com/@mike-468229/">Mike</a> on <a href="https://www.pexels.com/photo/aerial-view-of-soccer-field-1171084/">Pexels</a> 
+- [404 error image](assets/images/404img.jpg): Image by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/free-vector/error-404-concept-landing-page_5060705.htm#query=404&position=8&from_view=search&track=sph%22%3EImage%20by%20pikisuperstar%3C/a%3E%20on%20Freepik">Pexels</a> 
+
 
 
 
