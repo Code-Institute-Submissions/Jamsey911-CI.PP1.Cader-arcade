@@ -308,7 +308,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
-- Device name	LAPTOP-V71L4FJB
+- HP Pavilion laptop
 (both in pc and tablet mode)
 - Smasung S21+
 - Ipad
@@ -539,12 +539,27 @@ Images not referenced below are owned by the developer.
 
 ### Media
 In order of apearance:
-- [hero-image](assets/images/hero-image.jpg): Photo by <a href="https://www.pexels.com/@mikechie-esparagoza-749296/">Mikechie Esparagoza</a> on <a href="https://www.pexels.com/search/arcade/">Pexels</a>
+- [hero-image](assets/images/hero-image.jpg): Photo by <a href="https://www.pexels.com/@mikechie-esparagoza-749296/">Mikechie Esparagoza</a> on <a href="https://www.pexels.com/photo/people-inside-building-1601774/">Pexels</a>
 - [gaming-group](assets/images/gaming-group.jpg): Photo by <a href="https://www.pexels.com/@rodnae-prod/">RODNAE Productions </a> on <a href="https://www.pexels.com/photo/men-playing-computer-games-7915242/">Pexels</a>
 - [kids-gaming](assets/images/kids-gaming.jpg): Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro studio</a> on <a href="https://www.pexels.com/photo/people-standing-in-front-of-store-4836368/">Pexels</a> 
 - [cod-image](assets/images/cod-image.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/photo/soldier-in-camouflage-shirt-163347/">Pexels</a> 
 - [fifa-image](assets/images/fifa-image.jpg): Photo by <a href="https://www.pexels.com/@mike-468229/">Mike</a> on <a href="https://www.pexels.com/photo/aerial-view-of-soccer-field-1171084/">Pexels</a> 
-- [404 error image](assets/images/404img.jpg): Image by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/free-vector/error-404-concept-landing-page_5060705.htm#query=404&position=8&from_view=search&track=sph%22%3EImage%20by%20pikisuperstar%3C/a%3E%20on%20Freepik">Pexels</a> 
+- [404 error image](assets/images/404img.jpg): Image by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/free-vector/error-404-concept-landing-page_5060705.htm#query=404&position=8&from_view=search&track=sph%22%3EImage%20by%20pikisuperstar%3C/a%3E%20on%20Freepik">Freepix</a> 
+
+  
+### Code
+In order of apearance:
+- The footer containing social media links was adapted from the same struture for the Love Running project with Code Institute [Footer Main Structure](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
+- The Bookings page is based on the template illastrated by brilex 007 in his video [How to make booking form using html and css](https://www.youtube.com/watch?v=ShpH_1EPox0)
+- My README.md was based off the template illastrated by [Ana] (https://github.com/4n4ru)
+
+
+## Acknowledgements
+I would like to a thank you to
+- My mentor Mo Shami for his feedback and helpful advice
+- My family and friends for their help however it was needed
+- To Code Institute for their helpful and informative guidance
+
 
 
 
