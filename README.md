@@ -310,15 +310,15 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 The website was tested on the following devices:
 - HP Pavilion laptop
 - Smasung S21+
-- Ipad
+- Ipad (8th Generation)
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
-- Mozilla Firefox
 - Microsoft Egde
+- Apple Safari
 
 ### Testing user stories
 
@@ -534,7 +534,6 @@ You can clone the repository by following these steps:
 7. Press Enter to create your local clone.
 
 ## Credits
-Images not referenced below are owned by the developer.
 
 ### Media
 In order of apearance:
