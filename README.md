@@ -309,7 +309,6 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 ### Performing tests on various devices 
 The website was tested on the following devices:
 - HP Pavilion laptop
-(both in pc and tablet mode)
 - Smasung S21+
 - Ipad
 
@@ -508,11 +507,11 @@ The website was tested on the following browsers:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
-| The user can submit a contact form input without a message | Add required attribute to message input field |
-| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
-| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+| Image's not showing on deployed website | Add URL for host page to source code |
+| Font size in bookings page not displaying correctly | Edit incorrect CSS query  |
+| Body Elements overflow into header on all pages | A clear property of left was added|
+| Images in the upcoming events page caused poor perfomance | Downsized the images and saved as jpg's |
+| Map causing bad practices issue when tested in lighthouse | Set min-height for body to 100vh |
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -551,7 +550,7 @@ In order of apearance:
 In order of apearance:
 - The footer containing social media links was adapted from the same struture for the Love Running project with Code Institute [Footer Main Structure](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
 - The Bookings page is based on the template illastrated by brilex 007 in his video [How to make booking form using html and css](https://www.youtube.com/watch?v=ShpH_1EPox0)
-- My README.md was based off the template illastrated by [Ana](https://github.com/4n4ru)
+- My README.md was based off the template illastrated by [Ana 4n4ru](https://github.com/4n4ru)
 
 
 ## Acknowledgements
