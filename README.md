@@ -41,7 +41,7 @@
 
 ### User Goals
 - I want a place to engage and socialize with fellow gamers in a communal setting.
-- I Want to sign up for upcoming events
+- I want to sign up for upcoming events
 - I want to be adived when ther  next compeditive compititions take place
 - I want to place a booking for a group
 - I want to be advised on the opeing hours and contact details
