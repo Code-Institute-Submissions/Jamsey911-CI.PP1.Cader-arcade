@@ -18,16 +18,16 @@ h1, h2 {
     color: #000033;
     text-transform: uppercase;
 }
+/* Logo for all pages */
 #logo {
     font-size: 300%;
     float: left;
     padding: 10px 0 0 10px;
 }
-/* Navigation */
+/* Navigation for all pages */
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    /* NEEDS TO BE CHECKED */
     display: flex;
     justify-content: flex-end;  
 }
@@ -94,6 +94,7 @@ h1, h2 {
     border: 2px solid #000033;
 }
 /* Events Section */
+/* Event details in Index */
 #events {
     height: 470px;
     width: 100%;
@@ -102,6 +103,7 @@ h1, h2 {
     margin: 30px 30px 30px 0;
     align-items: center;   
 }
+/* Event images in Index */
 #kids-gaming {
     width: 300px;
     height: 300px;
@@ -214,7 +216,6 @@ h1, h2 {
 /* Bookings section sarts here */
 .holder {
     background-color: #000033;
-    /* margin: 50px; */
     letter-spacing: 1px;
     font-weight: 400;
     color: #e0dada;
@@ -223,6 +224,7 @@ h1, h2 {
     clear: left;
     align-items: center;
 }
+/* Details for booking section in Bookings page */
 .form-time {
     padding: 50px;
     outline: 3px dashed rgb(244, 244, 196);
@@ -245,6 +247,7 @@ h1, h2 {
     padding: 20px;
     color: rgb(244, 244, 196);   
 }
+/* Form for making a booking in bookings page */
 .form-table {
     padding: 20px 0;
     margin: 0 auto;
@@ -257,7 +260,6 @@ h1, h2 {
 .form-book {
     display: grid;
     grid-row-gap: 20px;
-    background-color: #000033;
 }
 .form-field {
     display: flex;
@@ -287,7 +289,7 @@ h1, h2 {
 /* Events Page Starts Here */
 #event-hero-outer {
     min-height: 700px;
-    width: 100%;
+    clear: left;
     background-color: #000033; 
     display: flex;
     justify-content: space-around;
@@ -295,6 +297,7 @@ h1, h2 {
     flex-wrap: wrap;
     padding: 10px;    
 }
+/* Details for COD event here */
 #event-1 {
     background: url(../images/cod-image.jpg);
     width: 300px;
@@ -319,6 +322,7 @@ h1, h2 {
     background-color: rgba(224,218,218, 0.9);
     border-radius: 10%;
 }
+/* Details for FIFA event here */
 #event-2 {
     background: url(../images/fifa-image.jpg) no-repeat center center;
     width: 300px;
@@ -347,9 +351,10 @@ h1, h2 {
 .disclaimer {
     color: red;
 }
+/* Sign up form for events in upcoming events page here */
 .form-event {
     background-color: #e0dada;
-    max-width: 300px;
+    max-width: 280px;
     padding: 15px;
     height: 400px;
     border-radius: 5%;
@@ -362,7 +367,7 @@ h1, h2 {
     width: 100%;
     height: 25px;
     margin: 5px 0 20px;
-    border: 1px solid #e0dada;
+    border: 1px solid #000033;
     border-radius: 2px;
 }
 .text-input:hover {
@@ -435,7 +440,7 @@ h1, h2 {
     list-style-type: none;  
     padding: 15px; 
 }
-/* Comment-From */
+/* Comment-Form */
 .comment-info {
     min-width: 320px;
     display: flex;
@@ -526,13 +531,11 @@ h1, h2 {
         width: 300px; 
         height: 300px;
         display: block;
-        margin: 10px 0 10px 0;
-         
+        margin: 10px 0 10px 0; 
     }
     #events-info {
       width: auto;
-      margin: 0 50px 20px 50px;
-        
+      margin: 0 50px 20px 50px;  
     }    
     #hero-contact {
         justify-content: space-around;
@@ -542,6 +545,8 @@ h1, h2 {
     }
     .contact-open {
         flex-direction: row;
+        width: 100%;
+        justify-content: center;
     }
     #banner {
         flex-direction: column;

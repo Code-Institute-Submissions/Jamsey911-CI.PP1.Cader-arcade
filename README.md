@@ -511,7 +511,7 @@ The website was tested on the following browsers:
 | Font size in bookings page not displaying correctly | Edit incorrect CSS query  |
 | Body Elements overflow into header on all pages | A clear property of left was added|
 | Images in the upcoming events page caused poor perfomance | Downsized the images and saved as jpg's |
-| Map causing bad practices issue when tested in lighthouse | Set min-height for body to 100vh |
+| Bookings form overflowing on smaller size screens | Set min-width for container  |
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
