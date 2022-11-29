@@ -388,10 +388,6 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-6.jpg">
 </details>
 
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/us-7v1-15.jpg">
-</details>
-
 7. As a returnign user, I want to know the opening times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
