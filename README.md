@@ -140,6 +140,9 @@ The page is structured in a simple and recognizable way with it being user frien
 <details><summary>Contacts</summary>
 <img src="docs/wireframes/contactswf.JPG">
 </details>
+<details><summary>404</summary>
+<img src="docs/wireframes/404wf.JPG">
+</details>
 
 ## Technologies Used
 
@@ -220,8 +223,6 @@ The webiste consists of 4 pages and twelve features
 - User stories covered: 6
 
 ![Events Form](docs/features/feat-events-form.JPG)
-
-<!-- Contacts page -->
 
 ### Opening Hours
 - Provides the user with information about the opening hours of the Arcade
