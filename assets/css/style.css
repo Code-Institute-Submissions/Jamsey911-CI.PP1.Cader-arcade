@@ -487,6 +487,8 @@ h1, h2 {
 /* Map Area */
 #map-area {
     border: 2px solid #000033;
+    width: 320px;
+    height: 450px;
 }
 /* 404 Error image page */
 .error-img {
