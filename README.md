@@ -390,7 +390,6 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/us-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
 </details>
 
 7. As a returnign user, I want to know the opening times
@@ -511,7 +510,7 @@ The website was tested on the following browsers:
 | Font size in bookings page not displaying correctly | Edit incorrect CSS query  |
 | Body Elements overflow into header on all pages | A clear property of left was added|
 | Images in the upcoming events page caused poor perfomance | Downsized the images and saved as jpg's |
-| Bookings form overflowing on smaller size screens | Set min-width for container  |
+| Bookings form overflowing on smaller size screens | Made Media query that changed the direction with flex so details can be legible   |
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
