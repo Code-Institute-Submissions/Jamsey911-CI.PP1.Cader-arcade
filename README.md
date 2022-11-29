@@ -294,16 +294,16 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="docs/validation/light-index.jpg">
+<img src="docs/validation/light-index.JPG">
 </details>
 <details><summary>Bookings</summary>
-<img src="docs/validation/light-bookings.jpg">
+<img src="docs/validation/light-bookings.JPG">
 </details>
 <details><summary>Upcoming Events</summary>
-<img src="docs/validation/light-events.jpg">
+<img src="docs/validation/light-events.JPG">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/light-contact.jpg">
+<img src="docs/validation/light-contact.JPG">
 </details>
 
 ### Performing tests on various devices 
