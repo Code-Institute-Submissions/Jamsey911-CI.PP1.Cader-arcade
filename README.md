@@ -405,7 +405,7 @@ The website was tested on the following browsers:
 | 404 Error Page | Enter incorrect landing page | 404 image is shown  | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/us-404.jpg">
+<img src="docs/user-story-testing/us-404.JPG">
 </details>
 
 7. As a returning user, I want to sign up for upcoming events taking place
