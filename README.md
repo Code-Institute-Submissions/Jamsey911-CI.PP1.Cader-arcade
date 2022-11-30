@@ -96,6 +96,7 @@
 16. As the site owner, I want users to get to know the Arcade 
 17. As the site owner, I want the users to be able to contact us
 
+
 ## Design
 
 ### Design Choices
@@ -163,7 +164,7 @@ The page is structured in a simple and recognizable way with it being user frien
 - Pexels
 
 ## Features
-The webiste consists of 4 pages and twelve features
+The webiste consists of 5 pages and thirteen features
 
 ### Logo and Navigation Bar
 - Featured on all pages
@@ -247,6 +248,12 @@ The webiste consists of 4 pages and twelve features
 - User stories covered: 1, 14
 
 ![Map](docs/features/feat-map.JPG)
+
+### 404 page
+- A custom 404 page takes away the confusion of not landing on the page they had intended to land on.
+- User stories covered: 6
+
+![404 Error Page ](docs/features/feat-404.JPG)
 
 ## Validation
 
@@ -391,7 +398,17 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-5-2.jpg">
 </details>
 
-6. As a returning user, I want to sign up for upcoming events taking place
+6. As a first time user, I want no confusion in regards to the exact landing page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 Error Page | Enter incorrect landing page | 404 image is shown  | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/us-404.jpg">
+</details>
+
+7. As a returning user, I want to sign up for upcoming events taking place
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -401,7 +418,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-6.jpg">
 </details>
 
-7. As a returnign user, I want to know the opening times
+8. As a returnign user, I want to know the opening times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -411,7 +428,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-7.jpg">
 </details>
 
-8. As a returning user, I want to find a phone number to call for booking
+9. As a returning user, I want to find a phone number to call for booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -421,7 +438,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-8.jpg">
 </details>
 
-9. As a returning user, I want to find an email address to email the Arcade
+10. As a returning user, I want to find an email address to email the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -431,7 +448,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-9.jpg">
 </details>
 
-10. As a returning user, I want to leave a comment, suggestion or message to the staff
+11. As a returning user, I want to leave a comment, suggestion or message to the staff
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -441,7 +458,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-10.jpg">
 </details>
 
-11. As a returning user, I want to find the Arcade on social media
+12. As a returning user, I want to find the Arcade on social media
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -451,7 +468,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-11.jpg">
 </details>
 
-12. As a returning user, I want to know details in regards to making a booking
+13. As a returning user, I want to know details in regards to making a booking
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -461,7 +478,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-12.jpg">
 </details>
 
-13. As a returning user, I want to get directions to the Arcade
+14. As a returning user, I want to get directions to the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -471,7 +488,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-13.jpg">
 </details>
 
-14. As the site owner, I want users to find out about upcoming events
+15. As the site owner, I want users to find out about upcoming events
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -483,7 +500,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-2-2.jpg">
 </details>
 
-15. As the site owner, I want users to get to know the Arcade
+16. As the site owner, I want users to get to know the Arcade
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -494,7 +511,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-3.jpg">
 </details>
 
-16. As the site owner, I want the users to be able to contact us
+17. As the site owner, I want the users to be able to contact us
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
