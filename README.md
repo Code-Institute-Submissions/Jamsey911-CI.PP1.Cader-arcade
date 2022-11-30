@@ -78,24 +78,24 @@
 3. As a first time user, I want to get a feel for the Arcade
 4. As a first time user, I want to get be able to ask a question if needed
 5. As a first time user, I want to make a booking
+6. As a first time user, I want no confusion in regards to the exact landing page 
 
 
 #### Returning User
-6. As a returning user, I want to sign up for upcoming events takeing place
-7. As a returnign user, I want to know the opening times
-8. As a returning user, I want to find a phone number to call for booking
-9. As a returning user, I want to find an email to email the Arcade
-10. As a returning user, I want to leave a comment, suggestion or message to the staff
-11. As a returning user, I want to find the Arcade on social media
-12. As a returning user, I want to know details in regards to making a booking
-13. As a returning user, I want to get directions to the Arcade
+7. As a returning user, I want to sign up for upcoming events takeing place
+8. As a returnign user, I want to know the opening times
+9. As a returning user, I want to find a phone number to call for booking
+10. As a returning user, I want to find an email to email the Arcade
+11. As a returning user, I want to leave a comment, suggestion or message to the staff
+12. As a returning user, I want to find the Arcade on social media
+13. As a returning user, I want to know details in regards to making a booking
+14. As a returning user, I want to get directions to the Arcade
 
 #### Site Owner 
-14. As the site owner, I want users to find out about upcoming events
-15. As the site owner, I want users to get to know the Arcade 
-16. As the site owner, I want the users to be able to contact us
+15. As the site owner, I want users to find out about upcoming events
+16. As the site owner, I want users to get to know the Arcade 
+17. As the site owner, I want the users to be able to contact us
 
-<!-- Day 2 -->
 ## Design
 
 ### Design Choices
@@ -183,68 +183,68 @@ The webiste consists of 4 pages and twelve features
 ### Upcoming Events Details
 - Gives the user a desription of what type of events take place with a link to take you to the events page
 - Shows images of past events
-- User stories covered: 2, 3, 6 
+- User stories covered: 2, 3, 7 
 
 ![Upcoming Evnets Details](docs/features/feat-events.JPG)
 
 ### Events Banners
 - Allowes users to see what events are upcoming
-- User stories covered: 2, 6
+- User stories covered: 2, 7
 
 ![Event Banners](docs/features/feat-banners.JPG)
 
 ### Footer
 - Featured on all pages
 - Consists of social media links
-- User stories covered: 11, 14, 15
+- User stories covered: 12, 15, 16
 
 ![Footer](docs/features/feat-footer.JPG)
 
 ### Booking Detials 
 - Gives an overview of the details related to making a booking 
-- User stories covered: 12
+- User stories covered: 13
 
 ![Booking Details](docs/features/feat-bookings-details.JPG)
 
 ### Bookings Form
 - Gives all relevent information in regards to requirments to make a booking
-- User stories covered: 5, 12
+- User stories covered: 5, 13
 
 ![Bookings Form](docs/features/feat-bookings-form.JPG)
 
 ### Event Details
 - Gives an overview of the details to upcoming events 
-- User stories covered: 2, 3, 6, 15
+- User stories covered: 2, 3, 7, 16
 
 ![Event Details](docs/features/feat-event-details.JPG)
 
 ### Events Form
 - Gives all relevent information in regards to requirments to sign up for an event
-- User stories covered: 6
+- User stories covered: 7
 
 ![Events Form](docs/features/feat-events-form.JPG)
 
 ### Opening Hours
 - Provides the user with information about the opening hours of the Arcade
-- User stories covered: 7
+- User stories covered: 8
 
 ![Opening Hours](docs/features/feat-hours.JPG)
 
 ### Contact Details
 - Provides the user with information about the Arcades address, phone number and email
-- User stories covered: 1, 8, 9
+- User stories covered: 1, 9, 10
 
 ![Contact Details](docs/features/feat-contact-info.JPG)
 
 ### Contact Form
 - A way for user to provide feedback
-- User stories covered: 4, 10, 12, 16
+- User stories covered: 4, 11, 13, 17
 
 ![Contact Form](docs/features/feat-message-box.JPG)
 
 ### Map
 - Shows the restaurant location on an embeded Google Map
-- User stories covered: 1, 13
+- User stories covered: 1, 14
 
 ![Map](docs/features/feat-map.JPG)
 
