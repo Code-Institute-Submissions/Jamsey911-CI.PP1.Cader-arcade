@@ -299,7 +299,7 @@ h1, h2 {
 }
 /* Details for COD event here */
 #event-1 {
-    /* background: url(../images/cod-image.jpg); */
+    background: url(../images/cod-image.jpg);
     width: 300px;
     height: 400px;
     padding: 15px;
@@ -324,7 +324,7 @@ h1, h2 {
 }
 /* Details for FIFA event here */
 #event-2 {
-    /* background: url(../images/fifa-image.jpg) no-repeat center center; */
+    background: url(../images/fifa-image.jpg) no-repeat center center;
     width: 300px;
     height: 400px;
     padding: 15px;
