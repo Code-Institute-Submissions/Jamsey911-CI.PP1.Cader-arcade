@@ -577,7 +577,7 @@ In order of apearance:
 
 
 ## Acknowledgements
-I would like to a thank you to
+I would like to give a big thank you to:
 - My mentor Mo Shami for his feedback and helpful advice
 - My family and friends for their help however it was needed
 - To Code Institute for their helpful and informative guidance
