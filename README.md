@@ -102,7 +102,7 @@
 ### Design Choices
 This project has been created out of my love for video games and wish for something when i was younger for a local arcade to have live inhouse tournaments where i could socialise with fellow gamers. 
 
-My goal is to create a welcoming yet efficent website so people of all ages feel at ease while they navigate through the content. In order to achieve this, all relevant content is made easy to read in the index with links to the sign up page for any upcoming events that are taking place another seperate page to book for a party(Birthday, confirmation, christmas) and another page with all relevant contact information.
+My goal is to create a welcoming yet efficent website so people of all ages feel at ease while they navigate through the content. In order to achieve this, all relevant content is made easy to read in the index with links to the sign up page for any upcoming events that are taking place. Another seperate page to book for a party(Birthday, confirmation, christmas) and another page with all relevant contact information.
 
 ### Colour
  The colour sheme was chosen as a dark red and dark blue theme, and was also aided by colorhexa in which a Split Complementary Color was selected. A light grey and soft yellow was used to give it contrast which was selected through adobe color. A slighly soft red was selected for certain alerts in the events page.
@@ -116,15 +116,15 @@ Libre Baskerville was used for the logo and main headings.
 <br>
 Libre Franklin was used for the sub-heading and smaller body elements. 
 <br>
-The fonts were chosen because the Libre Baskerville matched some of the illustraitions in the arcade and match for this font was made through fontjoy.
+The fonts were chosen because the Libre Baskerville matched some of the illustraitions in the arcade. The match for this font was made through fontjoy.
 <br>
 San-serif was used as my backup.
 
 ### Structure
-The page is structured in a simple and recognizable way with it being user friendly so anybody can find it easy to learn. The home page is designed to have all relevanet information once opened. The logo is postioned on the left and navigation on the right and this is shown on all pages in the same way. The design is created also to collaspe on itself when being viewed in differnt viewports while maintaing all relevant information: 
-- A homepage with sections for the bookings section and events section
+The page is structured in a simple and recognizable way with it being user friendly so anybody can find it easy to learn. The home page is designed to have all relevanet information once opened. The logo is postioned on the left, navigation on the right and this is shown on all pages in the same layout. The design is created also to collaspe on itself when being viewed in differnt viewports while maintaing all relevant information: 
+- A homepage with sections for the bookings section and upcoming events section
 - An bookings page with relevant information
-- A events page in which in which you can sign up for an event
+- A events page in which in which you can sign up for an upcoming event
 - A contacts page with a message section to contact the Arcade
 
 ### Wireframes
@@ -465,7 +465,7 @@ The website was tested on the following browsers:
 |Footer - Social Media | Navigate to the footer on each page | Opens Social media in new page| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-11.jpg">
+<img src="docs/user-story-testing/us-11.jpg">
 </details>
 
 13. As a returning user, I want to know details in regards to making a booking
