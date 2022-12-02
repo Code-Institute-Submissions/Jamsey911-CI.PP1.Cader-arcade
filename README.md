@@ -42,9 +42,9 @@
 ### User Goals
 - I want a place to engage and socialize with fellow gamers in a communal setting.
 - I want to sign up for upcoming events
-- I want to be adived when ther  next compeditive compititions take place
+- I want to be adived when their next compeditive compititions take place
 - I want to place a booking for a group
-- I want to be advised on the opeing hours and contact details
+- I want to be advised on the opening hours and contact details
 - I want links to their social media for futher updates and live posts.
 
 ### Site Owner Goals
@@ -64,7 +64,7 @@
 ### User Requrements and Expectations
 
 - A simple and informative navigation system
-- Releavent information is user friendly
+- Releavent information which is user friendly
 - All navigation correctly displayed
 - An appealling looking website
 - All contact information correctly displayed
@@ -82,7 +82,7 @@
 
 
 #### Returning User
-7. As a returning user, I want to sign up for upcoming events takeing place
+7. As a returning user, I want to sign up for upcoming events taking place
 8. As a returnign user, I want to know the opening times
 9. As a returning user, I want to find a phone number to call for booking
 10. As a returning user, I want to find an email to email the Arcade
@@ -100,12 +100,12 @@
 ## Design
 
 ### Design Choices
-This project has been created out of my love for video games and wish for something when i was younger for a local arcade to have live inhouse tournaments where i could socialise with fellow gamers. 
+This project has been created out of my love for video games and wish for something when i was younger, for a local arcade to have live inhouse tournaments where i could socialise with fellow gamers. 
 
 My goal is to create a welcoming yet efficent website so people of all ages feel at ease while they navigate through the content. In order to achieve this, all relevant content is made easy to read in the index with links to the sign up page for any upcoming events that are taking place. Another seperate page to book for a party(Birthday, confirmation, christmas) and another page with all relevant contact information.
 
 ### Colour
- The colour sheme was chosen as a dark red and dark blue theme, and was also aided by colorhexa in which a Split Complementary Color was selected. A light grey and soft yellow was used to give it contrast which was selected through adobe color. A slighly soft red was selected for certain alerts in the events page.
+ The colour sheme was chosen as a dark blue and dark red theme, and was also aided by colorhexa in which a Split Complementary Color was selected. A light grey and soft yellow was used to give it contrast which was selected through adobe color. A slighly soft red was selected for certain alerts in the events page.
 <br>
  
 ![Colour scheme](docs/features/color-palette.JPG)
@@ -114,7 +114,7 @@ My goal is to create a welcoming yet efficent website so people of all ages feel
 ### Fonts
 Libre Baskerville was used for the logo and main headings. 
 <br>
-Libre Franklin was used for the sub-heading and smaller body elements. 
+Libre Franklin was used for the sub-heading's and smaller body elements. 
 <br>
 The fonts were chosen because the Libre Baskerville matched some of the illustraitions in the arcade. The match for this font was made through fontjoy.
 <br>
@@ -123,7 +123,7 @@ San-serif was used as my backup.
 ### Structure
 The page is structured in a simple and recognizable way with it being user friendly so anybody can find it easy to learn. The home page is designed to have all relevanet information once opened. The logo is postioned on the left, navigation on the right and this is shown on all pages in the same layout. The design is created also to collaspe on itself when being viewed in differnt viewports while maintaing all relevant information: 
 - A homepage with sections for the bookings section and upcoming events section
-- An bookings page with relevant information
+- A bookings page with relevant information
 - A events page in which in which you can sign up for an upcoming event
 - A contacts page with a message section to contact the Arcade
 
@@ -190,14 +190,14 @@ The webiste consists of 5 pages and thirteen features
 
 ### Events Banners
 - Allowes users to see what events are upcoming
-- User stories covered: 2, 7
+- User stories covered: 2, 7, 15
 
 ![Event Banners](docs/features/feat-banners.JPG)
 
 ### Footer
 - Featured on all pages
 - Consists of social media links
-- User stories covered: 12, 15, 16
+- User stories covered: 3, 12, 16
 
 ![Footer](docs/features/feat-footer.JPG)
 
@@ -215,7 +215,7 @@ The webiste consists of 5 pages and thirteen features
 
 ### Event Details
 - Gives an overview of the details to upcoming events 
-- User stories covered: 2, 3, 7, 16
+- User stories covered: 2, 3, 7, 15, 16
 
 ![Event Details](docs/features/feat-event-details.JPG)
 
@@ -573,7 +573,7 @@ In order of apearance:
 In order of apearance:
 - The footer containing social media links was adapted from the same struture for the Love Running project with Code Institute [Footer Main Structure](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
 - The Bookings page is based on the template illastrated by brilex 007 in his video [How to make booking form using html and css](https://www.youtube.com/watch?v=ShpH_1EPox0)
-- My README.md was based off the template illastrated by [Ana 4n4ru](https://github.com/4n4ru)
+- My README.md was based off the template illastrated by [Ana 4n4ru](https://github.com/4n4ru/CI_MS1_BodelschwingherHof)
 
 
 ## Acknowledgements
