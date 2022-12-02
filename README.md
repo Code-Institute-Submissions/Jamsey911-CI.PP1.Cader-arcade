@@ -258,7 +258,7 @@ The webiste consists of 5 pages and thirteen features
 ## Validation
 
 ### HTML Validation
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors or warnings.
 <details><summary>Home</summary>
 <img src="docs/validation/val-index.JPG">
 </details>
@@ -277,7 +277,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-All pages pass with no errors no warnings to show.
+All pages pass with no errors or warnings.
 <details><summary>whole page</summary>
 <img src="docs/validation/val-whole.JPG">
 </details>
@@ -418,7 +418,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/us-6.jpg">
 </details>
 
-8. As a returnign user, I want to know the opening times
+8. As a returning user, I want to know the opening times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
