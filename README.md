@@ -571,7 +571,7 @@ In order of apearance:
   
 ### Code
 In order of apearance:
-- The footer containing social media links was adapted from the same struture for the Love Running project with Code Institute [Footer Main Structure](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
+- The footer containing social media links was adopted from the same struture for the Love Running project with Code Institute [Footer Main Structure](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/)
 - The Bookings page is based on the template illastrated by brilex 007 in his video [How to make booking form using html and css](https://www.youtube.com/watch?v=ShpH_1EPox0)
 - My README.md was based off the template illastrated by [Ana 4n4ru](https://github.com/4n4ru/CI_MS1_BodelschwingherHof)
 
